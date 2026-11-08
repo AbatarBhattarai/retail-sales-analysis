@@ -1,0 +1,1201 @@
+order_id,order_date,region,channel,category,product,unit_price,quantity,discount,customer_id,revenue
+ORD-2103,2024-01-01,South,In-Store,Clothing,Sneakers,95,2,0.0,CUST-533,190.0
+ORD-1551,2024-01-01,North,In-Store,Electronics,Laptop Stand,35,1,0.15,CUST-898,29.75
+ORD-1807,2024-01-02,East,In-Store,Sports,Water Bottle,18,1,0.0,CUST-227,18.0
+ORD-1263,2024-01-02,North,Online,Clothing,Hoodie,55,1,0.05,CUST-533,52.25
+ORD-1911,2024-01-03,North,Online,Electronics,USB-C Hub,29,1,0.0,CUST-771,29.0
+ORD-1664,2024-01-03,West,Online,Sports,Gym Bag,40,1,0.05,CUST-322,38.0
+ORD-1059,2024-01-03,North,In-Store,Home,Desk Lamp,39,2,0.1,CUST-324,70.2
+ORD-2087,2024-01-04,North,Online,Electronics,Laptop Stand,35,2,0.05,CUST-316,66.5
+ORD-2081,2024-01-04,West,Online,Home,Storage Bins,25,2,0.15,CUST-199,42.5
+ORD-1255,2024-01-04,South,In-Store,Sports,Dumbbell Set,120,4,0.0,CUST-871,480.0
+ORD-1600,2024-01-05,West,Online,Electronics,USB-C Hub,29,2,0.15,CUST-480,49.3
+ORD-2158,2024-01-05,East,In-Store,Clothing,Sneakers,95,5,0.0,CUST-597,475.0
+ORD-1730,2024-01-06,North,Online,Clothing,T-Shirt,22,1,0.05,CUST-521,20.9
+ORD-2142,2024-01-06,West,Online,Clothing,Sneakers,95,3,0.15,CUST-591,242.25
+ORD-1801,2024-01-07,East,In-Store,Sports,Dumbbell Set,120,1,0.0,CUST-556,120.0
+ORD-1996,2024-01-07,North,Online,Clothing,T-Shirt,22,1,0.0,CUST-686,22.0
+ORD-1566,2024-01-07,West,Online,Sports,Dumbbell Set,120,2,0.05,CUST-433,228.0
+ORD-1651,2024-01-08,West,Online,Home,Coffee Maker,89,1,0.15,CUST-860,75.65
+ORD-1358,2024-01-08,North,Online,Electronics,Wireless Headphones,79,2,0.0,CUST-507,158.0
+ORD-1088,2024-01-08,South,In-Store,Home,Throw Pillow Set,45,1,0.05,CUST-146,42.75
+ORD-2054,2024-01-08,East,Online,Electronics,Laptop Stand,35,1,0.0,CUST-498,35.0
+ORD-1253,2024-01-08,East,Online,Sports,Dumbbell Set,120,2,0.05,CUST-279,228.0
+ORD-1593,2024-01-08,East,In-Store,Electronics,Bluetooth Speaker,49,1,0.0,CUST-419,49.0
+ORD-1721,2024-01-08,South,Online,Clothing,Jeans,65,3,0.05,CUST-774,185.25
+ORD-1235,2024-01-09,North,In-Store,Sports,Dumbbell Set,120,1,0.0,CUST-697,120.0
+ORD-2182,2024-01-09,North,In-Store,Clothing,T-Shirt,22,1,0.0,CUST-769,22.0
+ORD-1969,2024-01-10,North,Online,Electronics,USB-C Hub,29,2,0.0,CUST-881,58.0
+ORD-1476,2024-01-10,West,Online,Electronics,USB-C Hub,29,2,0.0,CUST-670,58.0
+ORD-2058,2024-01-10,West,In-Store,Clothing,Sneakers,95,1,0.05,CUST-623,90.25
+ORD-1179,2024-01-10,South,Online,Electronics,USB-C Hub,29,1,0.0,CUST-449,29.0
+ORD-2188,2024-01-11,North,Online,Electronics,Wireless Headphones,79,1,0.0,CUST-235,79.0
+ORD-1603,2024-01-11,East,Online,Clothing,Sneakers,95,2,0.05,CUST-356,180.5
+ORD-1980,2024-01-11,East,Online,Home,Storage Bins,25,1,0.05,CUST-192,23.75
+ORD-1787,2024-01-11,North,Online,Sports,Gym Bag,40,2,0.0,CUST-337,80.0
+ORD-1455,2024-01-12,South,Online,Home,Desk Lamp,39,1,0.0,CUST-475,39.0
+ORD-1989,2024-01-13,East,In-Store,Electronics,Wireless Headphones,79,1,0.0,CUST-353,79.0
+ORD-1045,2024-01-13,East,In-Store,Home,Desk Lamp,39,3,0.0,CUST-785,117.0
+ORD-1391,2024-01-14,South,Online,Clothing,Sneakers,95,1,0.0,CUST-897,95.0
+ORD-1142,2024-01-14,East,Online,Clothing,T-Shirt,22,1,0.0,CUST-702,22.0
+ORD-1208,2024-01-14,West,In-Store,Clothing,T-Shirt,22,5,0.05,CUST-675,104.5
+ORD-1648,2024-01-14,East,Online,Home,Coffee Maker,89,1,0.05,CUST-710,84.55
+ORD-1872,2024-01-15,South,In-Store,Sports,Dumbbell Set,120,1,0.05,CUST-756,114.0
+ORD-1763,2024-01-15,North,Online,Electronics,Bluetooth Speaker,49,1,0.0,CUST-340,49.0
+ORD-1708,2024-01-16,West,In-Store,Clothing,Hoodie,55,3,0.0,CUST-828,165.0
+ORD-1024,2024-01-17,North,Online,Electronics,Bluetooth Speaker,49,1,0.1,CUST-385,44.1
+ORD-1951,2024-01-17,East,Online,Electronics,Bluetooth Speaker,49,1,0.05,CUST-716,46.55
+ORD-1594,2024-01-17,South,Online,Sports,Dumbbell Set,120,1,0.0,CUST-372,120.0
+ORD-1128,2024-01-18,South,Online,Electronics,Laptop Stand,35,2,0.0,CUST-402,70.0
+ORD-1619,2024-01-18,North,Online,Sports,Gym Bag,40,1,0.15,CUST-409,34.0
+ORD-1749,2024-01-19,West,Online,Home,Desk Lamp,39,4,0.05,CUST-582,148.2
+ORD-1859,2024-01-19,East,Online,Sports,Gym Bag,40,1,0.0,CUST-129,40.0
+ORD-1250,2024-01-19,West,In-Store,Sports,Water Bottle,18,4,0.15,CUST-290,61.2
+ORD-2061,2024-01-20,West,In-Store,Home,Storage Bins,25,1,0.0,CUST-237,25.0
+ORD-2074,2024-01-20,North,In-Store,Clothing,Hoodie,55,1,0.15,CUST-679,46.75
+ORD-1171,2024-01-20,East,Online,Electronics,Laptop Stand,35,1,0.0,CUST-760,35.0
+ORD-1450,2024-01-20,East,Online,Sports,Gym Bag,40,1,0.0,CUST-429,40.0
+ORD-1100,2024-01-21,East,In-Store,Sports,Gym Bag,40,1,0.1,CUST-126,36.0
+ORD-2038,2024-01-21,East,In-Store,Sports,Gym Bag,40,1,0.05,CUST-455,38.0
+ORD-2062,2024-01-21,West,In-Store,Clothing,Jeans,65,2,0.0,CUST-868,130.0
+ORD-1464,2024-01-21,East,In-Store,Electronics,Wireless Headphones,79,3,0.1,CUST-536,213.3
+ORD-1654,2024-01-22,South,In-Store,Electronics,Wireless Headphones,79,1,0.1,CUST-852,71.1
+ORD-1653,2024-01-22,West,In-Store,Home,Storage Bins,25,1,0.05,CUST-503,23.75
+ORD-1163,2024-01-22,West,Online,Clothing,Hoodie,55,1,0.0,CUST-420,55.0
+ORD-1748,2024-01-22,South,In-Store,Electronics,Laptop Stand,35,2,0.0,CUST-794,70.0
+ORD-1792,2024-01-22,South,In-Store,Home,Desk Lamp,39,1,0.15,CUST-366,33.15
+ORD-1041,2024-01-23,South,In-Store,Electronics,USB-C Hub,29,3,0.0,CUST-265,87.0
+ORD-1986,2024-01-23,South,Online,Sports,Gym Bag,40,1,0.1,CUST-384,36.0
+ORD-1772,2024-01-23,West,Online,Home,Coffee Maker,89,1,0.0,CUST-535,89.0
+ORD-1182,2024-01-23,South,In-Store,Home,Desk Lamp,39,2,0.0,CUST-725,78.0
+ORD-1194,2024-01-23,East,In-Store,Electronics,USB-C Hub,29,3,0.05,CUST-865,82.65
+ORD-2043,2024-01-23,North,In-Store,Home,Throw Pillow Set,45,1,0.0,CUST-490,45.0
+ORD-1320,2024-01-23,North,Online,Sports,Dumbbell Set,120,1,0.1,CUST-451,108.0
+ORD-1415,2024-01-23,West,In-Store,Sports,Dumbbell Set,120,1,0.0,CUST-331,120.0
+ORD-1480,2024-01-24,West,Online,Clothing,Jeans,65,2,0.1,CUST-834,117.0
+ORD-1928,2024-01-24,East,Online,Clothing,Jeans,65,2,0.05,CUST-806,123.5
+ORD-1688,2024-01-24,East,Online,Electronics,Laptop Stand,35,1,0.0,CUST-691,35.0
+ORD-1465,2024-01-24,South,Online,Electronics,Wireless Headphones,79,3,0.0,CUST-436,237.0
+ORD-1199,2024-01-25,East,In-Store,Home,Throw Pillow Set,45,1,0.1,CUST-227,40.5
+ORD-1483,2024-01-25,West,In-Store,Home,Storage Bins,25,1,0.0,CUST-620,25.0
+ORD-1191,2024-01-25,Unknown,Online,Clothing,T-Shirt,22,1,0.0,CUST-213,22.0
+ORD-1851,2024-01-25,West,Online,Electronics,Bluetooth Speaker,49,1,0.0,CUST-739,49.0
+ORD-1692,2024-01-26,West,Online,Clothing,Jeans,65,1,0.0,CUST-208,65.0
+ORD-1386,2024-01-26,West,In-Store,Electronics,Wireless Headphones,79,4,0.0,CUST-608,316.0
+ORD-2115,2024-01-27,East,In-Store,Clothing,Sneakers,95,1,0.0,CUST-252,95.0
+ORD-1143,2024-01-27,West,Online,Clothing,Hoodie,55,1,0.0,CUST-863,55.0
+ORD-1890,2024-01-28,North,In-Store,Sports,Yoga Mat,30,1,0.0,CUST-366,30.0
+ORD-1216,2024-01-29,South,In-Store,Home,Storage Bins,25,1,0.1,CUST-268,22.5
+ORD-1393,2024-01-29,South,In-Store,Home,Desk Lamp,39,1,0.05,CUST-463,37.05
+ORD-1120,2024-01-29,East,In-Store,Clothing,Hoodie,55,1,0.0,CUST-249,55.0
+ORD-1293,2024-01-29,South,Online,Sports,Gym Bag,40,2,0.05,CUST-611,76.0
+ORD-2191,2024-01-29,East,Online,Clothing,Sneakers,95,1,0.0,CUST-121,95.0
+ORD-1993,2024-01-29,East,In-Store,Sports,Yoga Mat,30,1,0.0,CUST-511,30.0
+ORD-1811,2024-01-30,West,Online,Electronics,Laptop Stand,35,1,0.0,CUST-465,35.0
+ORD-1204,2024-01-30,West,In-Store,Sports,Dumbbell Set,120,2,0.0,CUST-625,240.0
+ORD-1732,2024-01-30,South,Online,Electronics,Wireless Headphones,79,2,0.15,CUST-825,134.3
+ORD-1448,2024-01-30,East,Online,Clothing,T-Shirt,22,1,0.0,CUST-879,22.0
+ORD-1884,2024-01-31,South,In-Store,Clothing,Hoodie,55,1,0.0,CUST-462,55.0
+ORD-1264,2024-01-31,North,In-Store,Clothing,Hoodie,55,1,0.15,CUST-132,46.75
+ORD-1768,2024-01-31,North,In-Store,Home,Coffee Maker,89,2,0.0,CUST-569,178.0
+ORD-2060,2024-01-31,West,In-Store,Sports,Water Bottle,18,2,0.0,CUST-306,36.0
+ORD-1468,2024-01-31,South,Online,Home,Coffee Maker,89,1,0.15,CUST-526,75.65
+ORD-1992,2024-02-01,West,Online,Clothing,Hoodie,55,2,0.1,CUST-408,99.0
+ORD-1751,2024-02-02,North,Online,Sports,Water Bottle,18,3,0.1,CUST-609,48.6
+ORD-1580,2024-02-02,West,Online,Home,Storage Bins,25,1,0.15,CUST-126,21.25
+ORD-2010,2024-02-03,South,Online,Home,Storage Bins,25,3,0.0,CUST-296,75.0
+ORD-2041,2024-02-04,South,In-Store,Clothing,Jeans,65,2,0.05,CUST-521,123.5
+ORD-1809,2024-02-04,East,In-Store,Clothing,Sneakers,95,5,0.0,CUST-679,475.0
+ORD-1741,2024-02-05,North,In-Store,Sports,Gym Bag,40,3,0.0,CUST-805,120.0
+ORD-2065,2024-02-05,North,Online,Electronics,Wireless Headphones,79,3,0.15,CUST-309,201.45
+ORD-2032,2024-02-05,West,In-Store,Sports,Yoga Mat,30,1,0.1,CUST-310,27.0
+ORD-2033,2024-02-05,East,Online,Home,Throw Pillow Set,45,2,0.0,CUST-275,90.0
+ORD-1590,2024-02-05,East,Online,Clothing,Sneakers,95,1,0.0,CUST-752,95.0
+ORD-1613,2024-02-06,North,Online,Electronics,Laptop Stand,35,1,0.1,CUST-631,31.5
+ORD-1735,2024-02-07,North,In-Store,Sports,Dumbbell Set,120,1,0.0,CUST-497,120.0
+ORD-2005,2024-02-07,North,Online,Home,Coffee Maker,89,1,0.0,CUST-397,89.0
+ORD-1036,2024-02-07,North,Online,Clothing,Sneakers,95,1,0.0,CUST-650,95.0
+ORD-1091,2024-02-07,North,Online,Electronics,Wireless Headphones,79,1,0.0,CUST-252,79.0
+ORD-1295,2024-02-08,East,Online,Sports,Dumbbell Set,120,1,0.05,CUST-283,114.0
+ORD-2020,2024-02-08,North,In-Store,Sports,Water Bottle,18,1,0.0,CUST-613,18.0
+ORD-1408,2024-02-08,North,In-Store,Home,Storage Bins,25,1,0.0,CUST-708,25.0
+ORD-1340,2024-02-08,North,In-Store,Clothing,Sneakers,95,1,0.05,CUST-627,90.25
+ORD-1702,2024-02-09,West,Online,Home,Desk Lamp,39,2,0.05,CUST-706,74.1
+ORD-1207,2024-02-09,East,In-Store,Sports,Dumbbell Set,120,1,0.0,CUST-421,120.0
+ORD-1665,2024-02-10,Unknown,Online,Sports,Gym Bag,40,1,0.05,CUST-660,38.0
+ORD-1905,2024-02-10,West,In-Store,Electronics,Laptop Stand,35,1,0.1,CUST-252,31.5
+ORD-1589,2024-02-10,South,In-Store,Sports,Gym Bag,40,1,0.0,CUST-391,40.0
+ORD-1820,2024-02-10,North,Online,Home,Desk Lamp,39,1,0.0,CUST-119,39.0
+ORD-1292,2024-02-11,North,Online,Home,Desk Lamp,39,1,0.05,CUST-515,37.05
+ORD-1778,2024-02-11,East,Online,Clothing,T-Shirt,22,2,0.05,CUST-627,41.8
+ORD-1519,2024-02-11,South,Online,Electronics,Bluetooth Speaker,49,2,0.1,CUST-369,88.2
+ORD-1301,2024-02-12,West,Online,Clothing,T-Shirt,22,2,0.0,CUST-857,44.0
+ORD-1178,2024-02-13,West,In-Store,Sports,Water Bottle,18,2,0.0,CUST-230,36.0
+ORD-2195,2024-02-13,South,Online,Clothing,Hoodie,55,1,0.1,CUST-538,49.5
+ORD-1354,2024-02-13,East,Online,Home,Desk Lamp,39,1,0.0,CUST-774,39.0
+ORD-1305,2024-02-13,South,Online,Clothing,Sneakers,95,1,0.05,CUST-801,90.25
+ORD-1318,2024-02-13,South,In-Store,Sports,Yoga Mat,30,1,0.0,CUST-419,30.0
+ORD-2017,2024-02-13,North,In-Store,Home,Throw Pillow Set,45,1,0.0,CUST-555,45.0
+ORD-1660,2024-02-13,West,Online,Electronics,USB-C Hub,29,2,0.0,CUST-487,58.0
+ORD-1913,2024-02-14,North,Online,Clothing,Sneakers,95,3,0.0,CUST-214,285.0
+ORD-1924,2024-02-14,South,Online,Home,Desk Lamp,39,1,0.05,CUST-304,37.05
+ORD-1335,2024-02-14,North,Online,Sports,Dumbbell Set,120,1,0.0,CUST-314,120.0
+ORD-1667,2024-02-14,West,Online,Electronics,Laptop Stand,35,1,0.0,CUST-265,35.0
+ORD-2140,2024-02-14,West,In-Store,Home,Throw Pillow Set,45,2,0.15,CUST-192,76.5
+ORD-1254,2024-02-14,North,Online,Sports,Gym Bag,40,1,0.0,CUST-243,40.0
+ORD-1249,2024-02-15,South,Online,Clothing,Hoodie,55,4,0.05,CUST-279,209.0
+ORD-1462,2024-02-15,West,Online,Home,Coffee Maker,89,1,0.1,CUST-192,80.1
+ORD-1449,2024-02-15,West,In-Store,Home,Desk Lamp,39,1,0.0,CUST-513,39.0
+ORD-2080,2024-02-15,East,Online,Sports,Dumbbell Set,120,2,0.0,CUST-375,240.0
+ORD-1756,2024-02-15,East,In-Store,Electronics,Wireless Headphones,79,1,0.05,CUST-810,75.05
+ORD-1347,2024-02-16,North,Online,Clothing,T-Shirt,22,1,0.05,CUST-588,20.9
+ORD-1302,2024-02-16,East,In-Store,Sports,Dumbbell Set,120,1,0.0,CUST-468,120.0
+ORD-1014,2024-02-16,North,Online,Home,Desk Lamp,39,1,0.05,CUST-742,37.05
+ORD-1601,2024-02-16,East,Online,Electronics,Bluetooth Speaker,49,1,0.05,CUST-161,46.55
+ORD-2078,2024-02-17,West,In-Store,Home,Desk Lamp,39,1,0.05,CUST-823,37.05
+ORD-2141,2024-02-17,North,Online,Electronics,Wireless Headphones,79,2,0.0,CUST-861,158.0
+ORD-1294,2024-02-18,North,Online,Sports,Dumbbell Set,120,2,0.1,CUST-316,216.0
+ORD-2040,2024-02-18,North,Online,Sports,Water Bottle,18,2,0.0,CUST-261,36.0
+ORD-2119,2024-02-18,South,In-Store,Sports,Dumbbell Set,120,2,0.05,CUST-595,228.0
+ORD-1290,2024-02-19,South,Online,Sports,Water Bottle,18,1,0.0,CUST-734,18.0
+ORD-2120,2024-02-20,South,In-Store,Sports,Dumbbell Set,120,2,0.0,CUST-817,240.0
+ORD-1686,2024-02-20,South,Online,Clothing,T-Shirt,22,2,0.1,CUST-841,39.6
+ORD-1966,2024-02-20,West,In-Store,Electronics,Wireless Headphones,79,1,0.0,CUST-364,79.0
+ORD-2021,2024-02-20,East,Online,Electronics,Laptop Stand,35,4,0.0,CUST-659,140.0
+ORD-1871,2024-02-21,East,Online,Sports,Dumbbell Set,120,2,0.1,CUST-460,216.0
+ORD-1406,2024-02-21,South,Online,Sports,Dumbbell Set,120,1,0.1,CUST-562,108.0
+ORD-1592,2024-02-22,South,In-Store,Electronics,Wireless Headphones,79,1,0.0,CUST-844,79.0
+ORD-1334,2024-02-22,South,In-Store,Sports,Water Bottle,18,5,0.05,CUST-133,85.5
+ORD-1350,2024-02-22,East,In-Store,Sports,Yoga Mat,30,2,0.0,CUST-240,60.0
+ORD-2192,2024-02-22,West,Online,Electronics,Wireless Headphones,79,1,0.0,CUST-101,79.0
+ORD-1491,2024-02-22,South,In-Store,Electronics,Laptop Stand,35,3,0.05,CUST-343,99.75
+ORD-1738,2024-02-22,North,In-Store,Electronics,USB-C Hub,29,2,0.0,CUST-895,58.0
+ORD-2042,2024-02-23,East,In-Store,Electronics,Laptop Stand,35,1,0.0,CUST-561,35.0
+ORD-2031,2024-02-23,South,Online,Sports,Dumbbell Set,120,1,0.05,CUST-805,114.0
+ORD-1039,2024-02-24,South,In-Store,Electronics,Bluetooth Speaker,49,1,0.05,CUST-388,46.55
+ORD-1699,2024-02-24,North,In-Store,Electronics,USB-C Hub,29,3,0.0,CUST-645,87.0
+ORD-1602,2024-02-24,South,In-Store,Clothing,T-Shirt,22,2,0.0,CUST-671,44.0
+ORD-1821,2024-02-25,North,In-Store,Sports,Gym Bag,40,1,0.0,CUST-221,40.0
+ORD-1437,2024-02-25,East,In-Store,Clothing,Jeans,65,1,0.0,CUST-755,65.0
+ORD-1737,2024-02-25,West,Online,Sports,Water Bottle,18,2,0.0,CUST-728,36.0
+ORD-1146,2024-02-25,West,Online,Sports,Gym Bag,40,1,0.0,CUST-182,40.0
+ORD-2034,2024-02-26,Unknown,In-Store,Clothing,Sneakers,95,1,0.0,CUST-860,95.0
+ORD-1943,2024-02-26,East,In-Store,Clothing,Sneakers,95,5,0.05,CUST-742,451.25
+ORD-2194,2024-02-26,East,In-Store,Sports,Yoga Mat,30,1,0.0,CUST-178,30.0
+ORD-1785,2024-02-27,West,Online,Electronics,Wireless Headphones,79,1,0.05,CUST-309,75.05
+ORD-1356,2024-02-27,North,Online,Electronics,Bluetooth Speaker,49,1,0.0,CUST-469,49.0
+ORD-2146,2024-02-27,South,Online,Sports,Water Bottle,18,1,0.0,CUST-397,18.0
+ORD-1042,2024-02-27,South,Online,Sports,Gym Bag,40,2,0.0,CUST-478,80.0
+ORD-1167,2024-02-28,South,In-Store,Home,Coffee Maker,89,1,0.0,CUST-459,89.0
+ORD-1074,2024-02-28,South,In-Store,Clothing,T-Shirt,22,2,0.05,CUST-210,41.8
+ORD-1501,2024-02-28,East,Online,Clothing,Sneakers,95,4,0.0,CUST-629,380.0
+ORD-1927,2024-02-28,North,Online,Electronics,Wireless Headphones,79,1,0.05,CUST-598,75.05
+ORD-1105,2024-02-29,West,Online,Electronics,Laptop Stand,35,1,0.15,CUST-773,29.75
+ORD-1682,2024-02-29,East,In-Store,Home,Storage Bins,25,1,0.1,CUST-826,22.5
+ORD-1135,2024-02-29,South,In-Store,Electronics,Laptop Stand,35,5,0.0,CUST-564,175.0
+ORD-1725,2024-02-29,West,In-Store,Clothing,Hoodie,55,2,0.0,CUST-587,110.0
+ORD-1457,2024-02-29,West,Online,Electronics,Wireless Headphones,79,1,0.0,CUST-660,79.0
+ORD-1819,2024-03-01,South,Online,Clothing,Hoodie,55,2,0.0,CUST-414,110.0
+ORD-1092,2024-03-01,West,Online,Clothing,Hoodie,55,5,0.0,CUST-894,275.0
+ORD-1364,2024-03-01,North,In-Store,Home,Throw Pillow Set,45,2,0.05,CUST-539,85.5
+ORD-2122,2024-03-01,South,Online,Electronics,Bluetooth Speaker,49,5,0.0,CUST-668,245.0
+ORD-1562,2024-03-02,West,Online,Clothing,T-Shirt,22,2,0.15,CUST-882,37.4
+ORD-1380,2024-03-02,East,Online,Clothing,Sneakers,95,1,0.0,CUST-320,95.0
+ORD-2091,2024-03-03,East,Online,Sports,Water Bottle,18,1,0.1,CUST-477,16.2
+ORD-1932,2024-03-03,West,In-Store,Clothing,Jeans,65,3,0.1,CUST-887,175.5
+ORD-1212,2024-03-03,South,Online,Home,Throw Pillow Set,45,1,0.15,CUST-605,38.25
+ORD-1783,2024-03-03,East,In-Store,Sports,Gym Bag,40,1,0.0,CUST-735,40.0
+ORD-2124,2024-03-04,East,Online,Clothing,Hoodie,55,1,0.0,CUST-533,55.0
+ORD-1132,2024-03-04,East,In-Store,Sports,Yoga Mat,30,1,0.0,CUST-753,30.0
+ORD-1941,2024-03-05,East,Online,Electronics,Laptop Stand,35,1,0.0,CUST-195,35.0
+ORD-1720,2024-03-05,East,In-Store,Electronics,Laptop Stand,35,1,0.0,CUST-235,35.0
+ORD-1579,2024-03-05,East,Online,Home,Desk Lamp,39,3,0.05,CUST-315,111.15
+ORD-1582,2024-03-05,South,Online,Home,Throw Pillow Set,45,1,0.0,CUST-135,45.0
+ORD-2104,2024-03-05,South,Online,Clothing,Jeans,65,2,0.0,CUST-504,130.0
+ORD-1115,2024-03-05,East,Online,Home,Storage Bins,25,5,0.0,CUST-550,125.0
+ORD-1089,2024-03-05,West,Online,Electronics,Laptop Stand,35,2,0.05,CUST-112,66.5
+ORD-1484,2024-03-06,East,In-Store,Home,Desk Lamp,39,2,0.0,CUST-528,78.0
+ORD-1068,2024-03-06,North,In-Store,Sports,Water Bottle,18,3,0.15,CUST-706,45.9
+ORD-2123,2024-03-06,South,Online,Sports,Dumbbell Set,120,1,0.0,CUST-675,120.0
+ORD-1983,2024-03-06,South,In-Store,Home,Desk Lamp,39,1,0.05,CUST-683,37.05
+ORD-1733,2024-03-07,South,Online,Electronics,Wireless Headphones,79,3,0.0,CUST-812,237.0
+ORD-1750,2024-03-07,North,In-Store,Electronics,Bluetooth Speaker,49,2,0.0,CUST-199,98.0
+ORD-1223,2024-03-07,North,In-Store,Clothing,Jeans,65,5,0.05,CUST-347,308.75
+ORD-1129,2024-03-08,East,In-Store,Clothing,Sneakers,95,1,0.05,CUST-268,90.25
+ORD-1817,2024-03-08,West,In-Store,Sports,Yoga Mat,30,1,0.15,CUST-419,25.5
+ORD-1107,2024-03-08,West,In-Store,Electronics,Bluetooth Speaker,49,1,0.15,CUST-224,41.65
+ORD-1535,2024-03-08,South,In-Store,Electronics,Bluetooth Speaker,49,1,0.0,CUST-253,49.0
+ORD-1487,2024-03-08,South,In-Store,Clothing,Jeans,65,4,0.15,CUST-827,221.0
+ORD-1569,2024-03-08,Unknown,Online,Clothing,Sneakers,95,1,0.15,CUST-838,80.75
+ORD-1789,2024-03-08,East,Online,Sports,Gym Bag,40,1,0.1,CUST-366,36.0
+ORD-1836,2024-03-09,North,Online,Sports,Gym Bag,40,1,0.0,CUST-610,40.0
+ORD-2145,2024-03-09,North,In-Store,Home,Desk Lamp,39,1,0.0,CUST-607,39.0
+ORD-1841,2024-03-09,West,In-Store,Clothing,T-Shirt,22,1,0.0,CUST-882,22.0
+ORD-1308,2024-03-10,West,In-Store,Sports,Water Bottle,18,1,0.0,CUST-735,18.0
+ORD-1586,2024-03-10,West,Online,Clothing,Hoodie,55,1,0.0,CUST-804,55.0
+ORD-1265,2024-03-10,West,In-Store,Clothing,Sneakers,95,1,0.05,CUST-491,90.25
+ORD-1069,2024-03-10,South,Online,Electronics,Wireless Headphones,79,2,0.0,CUST-366,158.0
+ORD-1180,2024-03-11,East,Online,Sports,Water Bottle,18,1,0.0,CUST-619,18.0
+ORD-1383,2024-03-12,North,Online,Home,Coffee Maker,89,1,0.0,CUST-233,89.0
+ORD-1336,2024-03-12,Unknown,Online,Clothing,Sneakers,95,1,0.05,CUST-683,90.25
+ORD-1528,2024-03-12,South,Online,Sports,Yoga Mat,30,1,0.0,CUST-626,30.0
+ORD-1329,2024-03-12,West,Online,Home,Desk Lamp,39,1,0.0,CUST-467,39.0
+ORD-1862,2024-03-12,North,In-Store,Electronics,USB-C Hub,29,4,0.0,CUST-608,116.0
+ORD-1098,2024-03-13,South,In-Store,Home,Desk Lamp,39,4,0.0,CUST-709,156.0
+ORD-1635,2024-03-13,North,In-Store,Clothing,Sneakers,95,2,0.05,CUST-696,180.5
+ORD-2127,2024-03-13,South,Online,Electronics,Bluetooth Speaker,49,1,0.0,CUST-716,49.0
+ORD-1510,2024-03-14,East,Online,Sports,Dumbbell Set,120,5,0.0,CUST-666,600.0
+ORD-1116,2024-03-14,South,Online,Electronics,USB-C Hub,29,1,0.0,CUST-580,29.0
+ORD-1950,2024-03-14,West,In-Store,Sports,Gym Bag,40,3,0.0,CUST-232,120.0
+ORD-1122,2024-03-14,East,In-Store,Home,Storage Bins,25,4,0.0,CUST-361,100.0
+ORD-1866,2024-03-15,East,In-Store,Home,Throw Pillow Set,45,3,0.0,CUST-121,135.0
+ORD-1244,2024-03-15,East,Online,Sports,Gym Bag,40,3,0.0,CUST-454,120.0
+ORD-1576,2024-03-15,East,In-Store,Clothing,Sneakers,95,2,0.1,CUST-746,171.0
+ORD-1490,2024-03-15,East,Online,Home,Throw Pillow Set,45,2,0.1,CUST-871,81.0
+ORD-1881,2024-03-15,East,Online,Home,Storage Bins,25,1,0.0,CUST-732,25.0
+ORD-1489,2024-03-15,North,Online,Electronics,Wireless Headphones,79,1,0.0,CUST-373,79.0
+ORD-1646,2024-03-15,East,In-Store,Electronics,Bluetooth Speaker,49,1,0.05,CUST-521,46.55
+ORD-1645,2024-03-15,South,In-Store,Home,Storage Bins,25,5,0.05,CUST-169,118.75
+ORD-1723,2024-03-15,South,In-Store,Electronics,Laptop Stand,35,5,0.0,CUST-870,175.0
+ORD-1422,2024-03-16,North,Online,Sports,Yoga Mat,30,1,0.0,CUST-676,30.0
+ORD-1666,2024-03-16,East,Online,Clothing,T-Shirt,22,1,0.0,CUST-248,22.0
+ORD-1947,2024-03-16,West,Online,Home,Throw Pillow Set,45,1,0.05,CUST-194,42.75
+ORD-1835,2024-03-16,North,Online,Sports,Gym Bag,40,1,0.05,CUST-356,38.0
+ORD-1892,2024-03-16,North,Online,Sports,Yoga Mat,30,3,0.0,CUST-390,90.0
+ORD-1957,2024-03-17,East,Online,Sports,Gym Bag,40,2,0.1,CUST-739,72.0
+ORD-1368,2024-03-17,North,In-Store,Sports,Dumbbell Set,120,1,0.0,CUST-329,120.0
+ORD-1681,2024-03-17,North,In-Store,Clothing,Jeans,65,1,0.0,CUST-484,65.0
+ORD-1858,2024-03-17,South,In-Store,Home,Storage Bins,25,1,0.0,CUST-575,25.0
+ORD-1521,2024-03-17,South,In-Store,Clothing,Sneakers,95,2,0.0,CUST-237,190.0
+ORD-1233,2024-03-17,South,In-Store,Clothing,Sneakers,95,1,0.05,CUST-727,90.25
+ORD-2024,2024-03-17,South,Online,Electronics,USB-C Hub,29,2,0.1,CUST-840,52.2
+ORD-2196,2024-03-17,East,In-Store,Clothing,T-Shirt,22,2,0.1,CUST-456,39.6
+ORD-1739,2024-03-17,North,Online,Sports,Yoga Mat,30,3,0.05,CUST-780,85.5
+ORD-1352,2024-03-18,West,Online,Clothing,T-Shirt,22,2,0.1,CUST-188,39.6
+ORD-1685,2024-03-19,West,In-Store,Electronics,USB-C Hub,29,4,0.0,CUST-894,116.0
+ORD-2159,2024-03-19,South,Online,Electronics,USB-C Hub,29,1,0.05,CUST-387,27.55
+ORD-2029,2024-03-19,East,In-Store,Electronics,Wireless Headphones,79,4,0.15,CUST-490,268.6
+ORD-1150,2024-03-19,West,Online,Clothing,Jeans,65,1,0.05,CUST-193,61.75
+ORD-1136,2024-03-20,Unknown,In-Store,Clothing,Sneakers,95,2,0.1,CUST-730,171.0
+ORD-1529,2024-03-21,North,Online,Clothing,T-Shirt,22,1,0.0,CUST-524,22.0
+ORD-1095,2024-03-21,West,In-Store,Home,Desk Lamp,39,2,0.0,CUST-398,78.0
+ORD-1640,2024-03-21,East,In-Store,Clothing,Jeans,65,1,0.0,CUST-740,65.0
+ORD-1942,2024-03-22,East,Online,Clothing,Jeans,65,2,0.0,CUST-892,130.0
+ORD-2176,2024-03-22,North,In-Store,Clothing,T-Shirt,22,1,0.0,CUST-615,22.0
+ORD-1225,2024-03-22,East,Online,Sports,Water Bottle,18,5,0.1,CUST-881,81.0
+ORD-1761,2024-03-22,North,Online,Home,Storage Bins,25,1,0.05,CUST-760,23.75
+ORD-1018,2024-03-23,North,In-Store,Clothing,T-Shirt,22,1,0.0,CUST-600,22.0
+ORD-1794,2024-03-24,North,Online,Clothing,Sneakers,95,1,0.0,CUST-514,95.0
+ORD-2079,2024-03-25,East,In-Store,Electronics,Bluetooth Speaker,49,3,0.1,CUST-612,132.3
+ORD-1473,2024-03-25,West,In-Store,Home,Storage Bins,25,3,0.0,CUST-346,75.0
+ORD-1889,2024-03-25,West,Online,Clothing,Jeans,65,1,0.0,CUST-669,65.0
+ORD-1454,2024-03-25,West,Online,Sports,Dumbbell Set,120,2,0.15,CUST-333,204.0
+ORD-1930,2024-03-26,South,In-Store,Electronics,Wireless Headphones,79,1,0.05,CUST-260,75.05
+ORD-2085,2024-03-26,North,In-Store,Sports,Yoga Mat,30,3,0.0,CUST-227,90.0
+ORD-1972,2024-03-26,West,In-Store,Sports,Dumbbell Set,120,2,0.0,CUST-712,240.0
+ORD-2069,2024-03-26,West,In-Store,Electronics,Laptop Stand,35,1,0.0,CUST-878,35.0
+ORD-1419,2024-03-26,South,Online,Sports,Water Bottle,18,4,0.15,CUST-143,61.2
+ORD-1056,2024-03-27,East,In-Store,Home,Storage Bins,25,2,0.05,CUST-195,47.5
+ORD-1337,2024-03-27,East,In-Store,Clothing,Jeans,65,2,0.0,CUST-686,130.0
+ORD-1698,2024-03-28,East,Online,Electronics,Laptop Stand,35,1,0.0,CUST-620,35.0
+ORD-1009,2024-03-28,South,Online,Clothing,Hoodie,55,2,0.0,CUST-573,110.0
+ORD-1387,2024-03-29,South,In-Store,Electronics,USB-C Hub,29,2,0.0,CUST-386,58.0
+ORD-1623,2024-03-29,North,In-Store,Electronics,Laptop Stand,35,2,0.0,CUST-138,70.0
+ORD-1174,2024-03-29,West,In-Store,Clothing,Hoodie,55,1,0.0,CUST-636,55.0
+ORD-1382,2024-03-30,West,In-Store,Clothing,Jeans,65,3,0.0,CUST-669,195.0
+ORD-2039,2024-03-30,South,In-Store,Clothing,Sneakers,95,2,0.0,CUST-568,190.0
+ORD-1549,2024-03-30,West,Online,Clothing,Hoodie,55,4,0.05,CUST-306,209.0
+ORD-2186,2024-03-31,South,Online,Clothing,Hoodie,55,1,0.1,CUST-246,49.5
+ORD-2185,2024-03-31,West,Online,Home,Storage Bins,25,1,0.0,CUST-763,25.0
+ORD-1860,2024-03-31,North,In-Store,Clothing,Jeans,65,2,0.05,CUST-120,123.5
+ORD-1899,2024-04-01,West,Online,Sports,Yoga Mat,30,1,0.0,CUST-121,30.0
+ORD-1559,2024-04-01,East,Online,Clothing,Hoodie,55,2,0.0,CUST-687,110.0
+ORD-1121,2024-04-02,North,In-Store,Home,Storage Bins,25,2,0.0,CUST-734,50.0
+ORD-1513,2024-04-02,North,In-Store,Home,Throw Pillow Set,45,1,0.05,CUST-760,42.75
+ORD-1673,2024-04-02,South,In-Store,Sports,Gym Bag,40,1,0.1,CUST-298,36.0
+ORD-1595,2024-04-02,East,In-Store,Sports,Yoga Mat,30,1,0.0,CUST-112,30.0
+ORD-2152,2024-04-03,East,Online,Clothing,Jeans,65,1,0.0,CUST-549,65.0
+ORD-1028,2024-04-03,South,Online,Home,Storage Bins,25,1,0.0,CUST-553,25.0
+ORD-2084,2024-04-03,Unknown,In-Store,Home,Desk Lamp,39,1,0.1,CUST-518,35.1
+ORD-1826,2024-04-04,North,Online,Sports,Dumbbell Set,120,2,0.0,CUST-463,240.0
+ORD-1303,2024-04-05,West,Online,Clothing,Hoodie,55,1,0.0,CUST-126,55.0
+ORD-1910,2024-04-05,North,In-Store,Clothing,Jeans,65,5,0.0,CUST-789,325.0
+ORD-1113,2024-04-06,South,In-Store,Sports,Gym Bag,40,4,0.15,CUST-339,136.0
+ORD-2102,2024-04-06,North,In-Store,Electronics,Laptop Stand,35,2,0.05,CUST-230,66.5
+ORD-1395,2024-04-06,West,In-Store,Clothing,T-Shirt,22,2,0.1,CUST-279,39.6
+ORD-1410,2024-04-07,East,In-Store,Electronics,Laptop Stand,35,1,0.0,CUST-404,35.0
+ORD-1082,2024-04-07,West,In-Store,Clothing,Hoodie,55,1,0.0,CUST-668,55.0
+ORD-1127,2024-04-07,South,Online,Home,Throw Pillow Set,45,1,0.05,CUST-742,42.75
+ORD-1689,2024-04-08,East,In-Store,Clothing,T-Shirt,22,1,0.0,CUST-787,22.0
+ORD-1086,2024-04-08,South,Online,Clothing,T-Shirt,22,1,0.0,CUST-321,22.0
+ORD-1759,2024-04-08,North,In-Store,Sports,Yoga Mat,30,2,0.0,CUST-879,60.0
+ORD-2162,2024-04-08,West,Online,Home,Storage Bins,25,1,0.15,CUST-731,21.25
+ORD-1610,2024-04-08,West,In-Store,Electronics,Bluetooth Speaker,49,1,0.0,CUST-638,49.0
+ORD-2111,2024-04-09,West,Online,Clothing,Jeans,65,2,0.05,CUST-234,123.5
+ORD-1767,2024-04-09,East,Online,Clothing,T-Shirt,22,1,0.05,CUST-443,20.9
+ORD-1481,2024-04-10,Unknown,Online,Sports,Yoga Mat,30,1,0.0,CUST-568,30.0
+ORD-2150,2024-04-11,South,In-Store,Electronics,Wireless Headphones,79,1,0.0,CUST-226,79.0
+ORD-1877,2024-04-11,South,Online,Home,Coffee Maker,89,5,0.0,CUST-510,445.0
+ORD-2083,2024-04-11,North,In-Store,Clothing,T-Shirt,22,2,0.0,CUST-680,44.0
+ORD-1057,2024-04-11,North,Online,Home,Throw Pillow Set,45,1,0.0,CUST-586,45.0
+ORD-1838,2024-04-13,West,In-Store,Electronics,USB-C Hub,29,2,0.0,CUST-616,58.0
+ORD-1663,2024-04-13,East,Online,Home,Coffee Maker,89,3,0.0,CUST-569,267.0
+ORD-1378,2024-04-13,North,Online,Sports,Dumbbell Set,120,1,0.0,CUST-208,120.0
+ORD-1360,2024-04-14,South,In-Store,Clothing,Hoodie,55,1,0.15,CUST-500,46.75
+ORD-1780,2024-04-14,East,Online,Home,Coffee Maker,89,2,0.0,CUST-652,178.0
+ORD-1239,2024-04-14,West,Online,Sports,Water Bottle,18,1,0.0,CUST-822,18.0
+ORD-1458,2024-04-15,North,In-Store,Clothing,Sneakers,95,2,0.05,CUST-530,180.5
+ORD-1140,2024-04-15,South,Online,Home,Desk Lamp,39,2,0.0,CUST-338,78.0
+ORD-1504,2024-04-15,West,Online,Home,Storage Bins,25,3,0.0,CUST-864,75.0
+ORD-2035,2024-04-15,South,In-Store,Electronics,USB-C Hub,29,4,0.0,CUST-542,116.0
+ORD-1094,2024-04-16,East,Online,Electronics,Wireless Headphones,79,4,0.05,CUST-260,300.2
+ORD-2113,2024-04-17,South,Online,Sports,Dumbbell Set,120,3,0.0,CUST-470,360.0
+ORD-1914,2024-04-17,South,Online,Electronics,Bluetooth Speaker,49,3,0.0,CUST-546,147.0
+ORD-2179,2024-04-17,North,In-Store,Electronics,Bluetooth Speaker,49,5,0.0,CUST-747,245.0
+ORD-1312,2024-04-17,East,Online,Electronics,USB-C Hub,29,4,0.0,CUST-518,116.0
+ORD-1139,2024-04-18,North,Online,Electronics,USB-C Hub,29,1,0.05,CUST-441,27.55
+ORD-1081,2024-04-18,East,In-Store,Sports,Dumbbell Set,120,1,0.0,CUST-386,120.0
+ORD-1245,2024-04-19,East,In-Store,Sports,Dumbbell Set,120,2,0.0,CUST-240,240.0
+ORD-1864,2024-04-19,West,In-Store,Home,Desk Lamp,39,1,0.15,CUST-360,33.15
+ORD-1620,2024-04-19,North,In-Store,Electronics,Laptop Stand,35,5,0.1,CUST-666,157.5
+ORD-2147,2024-04-19,Unknown,Online,Clothing,Sneakers,95,1,0.0,CUST-412,95.0
+ORD-1753,2024-04-19,South,In-Store,Home,Throw Pillow Set,45,3,0.05,CUST-164,128.25
+ORD-1190,2024-04-20,Unknown,Online,Electronics,Wireless Headphones,79,1,0.1,CUST-894,71.1
+ORD-1004,2024-04-20,East,Online,Sports,Dumbbell Set,120,1,0.15,CUST-194,102.0
+ORD-1499,2024-04-21,West,Online,Clothing,Jeans,65,1,0.15,CUST-217,55.25
+ORD-1436,2024-04-21,West,Online,Sports,Dumbbell Set,120,1,0.0,CUST-107,120.0
+ORD-1002,2024-04-21,North,Online,Sports,Yoga Mat,30,1,0.0,CUST-833,30.0
+ORD-1557,2024-04-22,South,In-Store,Clothing,Hoodie,55,1,0.05,CUST-522,52.25
+ORD-1258,2024-04-22,West,Online,Clothing,Jeans,65,2,0.15,CUST-565,110.5
+ORD-2183,2024-04-22,South,In-Store,Clothing,T-Shirt,22,3,0.0,CUST-259,66.0
+ORD-1769,2024-04-22,South,Online,Sports,Water Bottle,18,2,0.1,CUST-691,32.4
+ORD-1441,2024-04-23,West,In-Store,Electronics,Bluetooth Speaker,49,1,0.05,CUST-619,46.55
+ORD-1626,2024-04-23,West,In-Store,Home,Throw Pillow Set,45,1,0.0,CUST-870,45.0
+ORD-1283,2024-04-23,North,In-Store,Clothing,Sneakers,95,1,0.05,CUST-666,90.25
+ORD-2101,2024-04-24,East,Online,Sports,Gym Bag,40,3,0.0,CUST-214,120.0
+ORD-1474,2024-04-24,West,In-Store,Clothing,Jeans,65,1,0.0,CUST-340,65.0
+ORD-1267,2024-04-24,North,In-Store,Home,Storage Bins,25,1,0.1,CUST-574,22.5
+ORD-1527,2024-04-24,East,In-Store,Electronics,Laptop Stand,35,1,0.0,CUST-598,35.0
+ORD-1696,2024-04-24,East,In-Store,Sports,Gym Bag,40,1,0.0,CUST-501,40.0
+ORD-1332,2024-04-25,South,In-Store,Home,Throw Pillow Set,45,1,0.0,CUST-679,45.0
+ORD-1217,2024-04-25,East,Online,Home,Throw Pillow Set,45,4,0.0,CUST-356,180.0
+ORD-1131,2024-04-25,West,In-Store,Electronics,Bluetooth Speaker,49,2,0.1,CUST-192,88.2
+ORD-1713,2024-04-25,North,In-Store,Sports,Gym Bag,40,1,0.0,CUST-848,40.0
+ORD-1242,2024-04-25,East,In-Store,Home,Throw Pillow Set,45,2,0.15,CUST-821,76.5
+ORD-1506,2024-04-26,West,In-Store,Clothing,Hoodie,55,2,0.1,CUST-561,99.0
+ORD-1827,2024-04-26,East,Online,Sports,Gym Bag,40,1,0.0,CUST-577,40.0
+ORD-1047,2024-04-26,South,In-Store,Home,Storage Bins,25,1,0.0,CUST-436,25.0
+ORD-1524,2024-04-28,East,Online,Electronics,Bluetooth Speaker,49,2,0.0,CUST-143,98.0
+ORD-1375,2024-04-28,West,In-Store,Home,Throw Pillow Set,45,1,0.1,CUST-569,40.5
+ORD-1632,2024-04-29,East,Online,Sports,Water Bottle,18,1,0.0,CUST-875,18.0
+ORD-1396,2024-04-29,North,In-Store,Sports,Yoga Mat,30,1,0.05,CUST-100,28.5
+ORD-1945,2024-04-30,South,In-Store,Electronics,USB-C Hub,29,1,0.1,CUST-406,26.1
+ORD-1869,2024-04-30,South,In-Store,Clothing,Jeans,65,1,0.0,CUST-746,65.0
+ORD-1118,2024-04-30,East,Online,Sports,Yoga Mat,30,2,0.05,CUST-864,57.0
+ORD-1868,2024-05-01,West,Online,Clothing,Hoodie,55,1,0.1,CUST-502,49.5
+ORD-1403,2024-05-01,East,Online,Home,Throw Pillow Set,45,2,0.0,CUST-751,90.0
+ORD-1361,2024-05-02,North,In-Store,Electronics,Laptop Stand,35,2,0.0,CUST-218,70.0
+ORD-1967,2024-05-02,South,In-Store,Sports,Yoga Mat,30,1,0.05,CUST-620,28.5
+ORD-1700,2024-05-02,South,In-Store,Sports,Gym Bag,40,2,0.05,CUST-493,76.0
+ORD-1183,2024-05-02,West,Online,Clothing,Sneakers,95,1,0.0,CUST-476,95.0
+ORD-2097,2024-05-03,South,Online,Electronics,USB-C Hub,29,2,0.0,CUST-208,58.0
+ORD-2116,2024-05-03,East,Online,Sports,Water Bottle,18,1,0.0,CUST-768,18.0
+ORD-1313,2024-05-03,South,In-Store,Sports,Water Bottle,18,2,0.0,CUST-486,36.0
+ORD-1856,2024-05-03,East,In-Store,Home,Throw Pillow Set,45,1,0.0,CUST-520,45.0
+ORD-1227,2024-05-03,East,Online,Electronics,USB-C Hub,29,1,0.0,CUST-151,29.0
+ORD-1321,2024-05-04,South,In-Store,Electronics,Bluetooth Speaker,49,4,0.0,CUST-673,196.0
+ORD-1633,2024-05-04,South,In-Store,Electronics,Wireless Headphones,79,2,0.15,CUST-114,134.3
+ORD-1001,2024-05-05,North,Online,Electronics,Wireless Headphones,79,2,0.0,CUST-704,158.0
+ORD-2160,2024-05-06,West,Online,Electronics,Laptop Stand,35,5,0.05,CUST-585,166.25
+ORD-1072,2024-05-06,North,Online,Electronics,Wireless Headphones,79,2,0.0,CUST-344,158.0
+ORD-1224,2024-05-06,North,In-Store,Sports,Yoga Mat,30,1,0.0,CUST-493,30.0
+ORD-1894,2024-05-06,North,In-Store,Home,Storage Bins,25,4,0.05,CUST-126,95.0
+ORD-1268,2024-05-06,South,In-Store,Sports,Gym Bag,40,3,0.0,CUST-293,120.0
+ORD-1517,2024-05-06,West,In-Store,Sports,Water Bottle,18,1,0.05,CUST-468,17.1
+ORD-1062,2024-05-06,East,In-Store,Sports,Gym Bag,40,1,0.0,CUST-741,40.0
+ORD-1771,2024-05-06,West,Online,Clothing,Hoodie,55,2,0.0,CUST-705,110.0
+ORD-1060,2024-05-07,North,In-Store,Home,Storage Bins,25,1,0.1,CUST-236,22.5
+ORD-1988,2024-05-07,East,In-Store,Home,Storage Bins,25,4,0.0,CUST-164,100.0
+ORD-1381,2024-05-07,West,Online,Clothing,T-Shirt,22,1,0.15,CUST-793,18.7
+ORD-1762,2024-05-08,West,Online,Clothing,Jeans,65,1,0.0,CUST-206,65.0
+ORD-1854,2024-05-08,West,Online,Clothing,T-Shirt,22,1,0.05,CUST-119,20.9
+ORD-1514,2024-05-08,West,In-Store,Electronics,Laptop Stand,35,2,0.0,CUST-465,70.0
+ORD-1542,2024-05-09,West,In-Store,Home,Storage Bins,25,2,0.0,CUST-726,50.0
+ORD-2167,2024-05-09,East,In-Store,Clothing,Hoodie,55,1,0.15,CUST-411,46.75
+ORD-1456,2024-05-10,North,Online,Electronics,USB-C Hub,29,3,0.05,CUST-777,82.65
+ORD-2075,2024-05-10,East,In-Store,Home,Desk Lamp,39,2,0.05,CUST-750,74.1
+ORD-2129,2024-05-10,South,Online,Home,Storage Bins,25,1,0.05,CUST-172,23.75
+ORD-1168,2024-05-11,South,Online,Home,Desk Lamp,39,1,0.0,CUST-281,39.0
+ORD-1440,2024-05-12,West,In-Store,Electronics,USB-C Hub,29,5,0.1,CUST-854,130.5
+ORD-1573,2024-05-13,East,In-Store,Electronics,USB-C Hub,29,2,0.0,CUST-120,58.0
+ORD-1722,2024-05-13,South,In-Store,Sports,Dumbbell Set,120,3,0.05,CUST-285,342.0
+ORD-2007,2024-05-14,Unknown,Online,Clothing,T-Shirt,22,1,0.05,CUST-282,20.9
+ORD-1558,2024-05-14,North,In-Store,Clothing,Hoodie,55,2,0.0,CUST-789,110.0
+ORD-1017,2024-05-14,South,Online,Sports,Water Bottle,18,1,0.15,CUST-740,15.3
+ORD-1567,2024-05-14,West,In-Store,Clothing,Jeans,65,1,0.0,CUST-474,65.0
+ORD-2008,2024-05-14,North,Online,Home,Coffee Maker,89,1,0.1,CUST-488,80.1
+ORD-1606,2024-05-14,West,Online,Home,Storage Bins,25,1,0.0,CUST-894,25.0
+ORD-1404,2024-05-15,North,In-Store,Electronics,Laptop Stand,35,1,0.0,CUST-362,35.0
+ORD-1495,2024-05-15,East,Online,Electronics,USB-C Hub,29,1,0.0,CUST-438,29.0
+ORD-1561,2024-05-15,South,Online,Home,Desk Lamp,39,2,0.0,CUST-733,78.0
+ORD-1049,2024-05-15,West,In-Store,Electronics,Laptop Stand,35,1,0.0,CUST-846,35.0
+ORD-1236,2024-05-15,South,Online,Clothing,Hoodie,55,2,0.15,CUST-697,93.5
+ORD-1736,2024-05-15,North,In-Store,Clothing,Hoodie,55,1,0.0,CUST-305,55.0
+ORD-2088,2024-05-16,West,In-Store,Electronics,USB-C Hub,29,2,0.15,CUST-718,49.3
+ORD-2155,2024-05-16,West,In-Store,Home,Storage Bins,25,4,0.0,CUST-798,100.0
+ORD-1466,2024-05-17,North,In-Store,Clothing,Sneakers,95,4,0.1,CUST-450,342.0
+ORD-1333,2024-05-17,East,Online,Sports,Yoga Mat,30,2,0.05,CUST-878,57.0
+ORD-1637,2024-05-18,Unknown,Online,Electronics,Wireless Headphones,79,1,0.05,CUST-119,75.05
+ORD-1893,2024-05-19,South,Online,Home,Desk Lamp,39,2,0.0,CUST-638,78.0
+ORD-1852,2024-05-19,West,In-Store,Electronics,Wireless Headphones,79,2,0.0,CUST-314,158.0
+ORD-1805,2024-05-19,West,Online,Electronics,USB-C Hub,29,2,0.0,CUST-304,58.0
+ORD-1147,2024-05-20,East,In-Store,Clothing,T-Shirt,22,1,0.05,CUST-711,20.9
+ORD-1690,2024-05-20,North,Online,Electronics,Laptop Stand,35,1,0.0,CUST-655,35.0
+ORD-1273,2024-05-20,South,In-Store,Home,Desk Lamp,39,1,0.0,CUST-669,39.0
+ORD-1870,2024-05-20,West,In-Store,Clothing,Sneakers,95,2,0.1,CUST-854,171.0
+ORD-1670,2024-05-20,West,Online,Sports,Water Bottle,18,1,0.0,CUST-812,18.0
+ORD-1553,2024-05-21,South,In-Store,Clothing,Jeans,65,1,0.0,CUST-513,65.0
+ORD-2169,2024-05-21,West,Online,Clothing,Jeans,65,1,0.0,CUST-208,65.0
+ORD-1424,2024-05-21,West,Online,Sports,Gym Bag,40,1,0.0,CUST-505,40.0
+ORD-1154,2024-05-22,West,Online,Clothing,Jeans,65,1,0.0,CUST-723,65.0
+ORD-1048,2024-05-22,West,In-Store,Clothing,Hoodie,55,5,0.0,CUST-128,275.0
+ORD-1003,2024-05-22,North,Online,Sports,Water Bottle,18,1,0.1,CUST-814,16.2
+ORD-2046,2024-05-22,South,Online,Home,Storage Bins,25,1,0.1,CUST-721,22.5
+ORD-1888,2024-05-23,West,In-Store,Home,Storage Bins,25,3,0.05,CUST-369,71.25
+ORD-1175,2024-05-24,East,Online,Home,Throw Pillow Set,45,1,0.0,CUST-746,45.0
+ORD-1096,2024-05-24,West,Online,Electronics,Bluetooth Speaker,49,1,0.05,CUST-803,46.55
+ORD-1825,2024-05-24,North,Online,Electronics,Bluetooth Speaker,49,2,0.0,CUST-319,98.0
+ORD-1636,2024-05-25,East,Online,Electronics,Laptop Stand,35,1,0.0,CUST-576,35.0
+ORD-1656,2024-05-26,West,In-Store,Sports,Dumbbell Set,120,2,0.0,CUST-727,240.0
+ORD-1063,2024-05-26,East,In-Store,Home,Throw Pillow Set,45,1,0.0,CUST-653,45.0
+ORD-1230,2024-05-27,West,In-Store,Electronics,Bluetooth Speaker,49,1,0.0,CUST-738,49.0
+ORD-1790,2024-05-27,North,Online,Home,Storage Bins,25,1,0.05,CUST-461,23.75
+ORD-1007,2024-05-28,South,Online,Electronics,Wireless Headphones,79,2,0.15,CUST-489,134.3
+ORD-1413,2024-05-29,West,Online,Electronics,Bluetooth Speaker,49,1,0.15,CUST-415,41.65
+ORD-1707,2024-05-30,North,Online,Electronics,USB-C Hub,29,3,0.0,CUST-820,87.0
+ORD-1412,2024-05-30,West,Online,Clothing,Hoodie,55,1,0.1,CUST-199,49.5
+ORD-1718,2024-05-30,North,In-Store,Sports,Dumbbell Set,120,1,0.0,CUST-844,120.0
+ORD-1006,2024-05-30,East,Online,Electronics,USB-C Hub,29,1,0.1,CUST-821,26.1
+ORD-2105,2024-05-31,West,In-Store,Electronics,USB-C Hub,29,1,0.1,CUST-250,26.1
+ORD-1130,2024-05-31,East,Online,Clothing,Sneakers,95,5,0.05,CUST-579,451.25
+ORD-1502,2024-05-31,South,In-Store,Clothing,Sneakers,95,1,0.1,CUST-626,85.5
+ORD-1053,2024-05-31,South,In-Store,Sports,Dumbbell Set,120,1,0.0,CUST-780,120.0
+ORD-2177,2024-05-31,North,Online,Clothing,Jeans,65,3,0.05,CUST-329,185.25
+ORD-1093,2024-06-01,West,In-Store,Sports,Gym Bag,40,4,0.1,CUST-682,144.0
+ORD-1861,2024-06-01,West,In-Store,Electronics,Wireless Headphones,79,1,0.1,CUST-787,71.1
+ORD-1909,2024-06-01,West,In-Store,Electronics,USB-C Hub,29,3,0.0,CUST-738,87.0
+ORD-2023,2024-06-02,East,In-Store,Home,Throw Pillow Set,45,1,0.0,CUST-515,45.0
+ORD-1622,2024-06-02,West,Online,Home,Desk Lamp,39,1,0.0,CUST-851,39.0
+ORD-1306,2024-06-03,South,Online,Sports,Water Bottle,18,1,0.0,CUST-271,18.0
+ORD-1076,2024-06-03,North,Online,Home,Coffee Maker,89,2,0.1,CUST-455,160.2
+ORD-1161,2024-06-03,South,In-Store,Sports,Yoga Mat,30,1,0.15,CUST-396,25.5
+ORD-1853,2024-06-03,East,In-Store,Clothing,Hoodie,55,2,0.0,CUST-779,110.0
+ORD-1054,2024-06-03,North,In-Store,Sports,Water Bottle,18,2,0.0,CUST-393,36.0
+ORD-1134,2024-06-03,North,Online,Electronics,USB-C Hub,29,4,0.05,CUST-146,110.2
+ORD-1218,2024-06-04,North,Online,Home,Throw Pillow Set,45,1,0.05,CUST-706,42.75
+ORD-1516,2024-06-05,South,In-Store,Sports,Dumbbell Set,120,2,0.05,CUST-423,228.0
+ORD-1327,2024-06-05,East,Online,Home,Throw Pillow Set,45,1,0.0,CUST-623,45.0
+ORD-2134,2024-06-05,West,Online,Electronics,Bluetooth Speaker,49,1,0.0,CUST-641,49.0
+ORD-2009,2024-06-05,East,In-Store,Electronics,Laptop Stand,35,4,0.0,CUST-776,140.0
+ORD-1954,2024-06-05,South,Online,Sports,Yoga Mat,30,4,0.1,CUST-857,108.0
+ORD-1084,2024-06-05,East,In-Store,Home,Storage Bins,25,2,0.05,CUST-666,47.5
+ORD-1019,2024-06-06,South,Online,Electronics,Wireless Headphones,79,4,0.0,CUST-187,316.0
+ORD-2049,2024-06-06,North,Online,Electronics,Wireless Headphones,79,1,0.0,CUST-890,79.0
+ORD-1043,2024-06-06,North,In-Store,Home,Storage Bins,25,1,0.0,CUST-315,25.0
+ORD-1662,2024-06-07,West,In-Store,Home,Coffee Maker,89,1,0.05,CUST-741,84.55
+ORD-2036,2024-06-07,West,In-Store,Sports,Water Bottle,18,2,0.0,CUST-306,36.0
+ORD-1901,2024-06-07,South,In-Store,Sports,Gym Bag,40,2,0.1,CUST-781,72.0
+ORD-1166,2024-06-07,South,In-Store,Sports,Yoga Mat,30,1,0.05,CUST-897,28.5
+ORD-2067,2024-06-08,South,Online,Electronics,USB-C Hub,29,2,0.0,CUST-534,58.0
+ORD-1108,2024-06-08,West,Online,Electronics,Bluetooth Speaker,49,2,0.0,CUST-330,98.0
+ORD-1998,2024-06-08,East,In-Store,Home,Coffee Maker,89,1,0.0,CUST-697,89.0
+ORD-1863,2024-06-09,West,Online,Electronics,Bluetooth Speaker,49,2,0.0,CUST-533,98.0
+ORD-1035,2024-06-09,West,Online,Clothing,Jeans,65,1,0.0,CUST-787,65.0
+ORD-1920,2024-06-10,East,In-Store,Electronics,Wireless Headphones,79,1,0.0,CUST-584,79.0
+ORD-1011,2024-06-10,North,Online,Electronics,Bluetooth Speaker,49,3,0.0,CUST-680,147.0
+ORD-1377,2024-06-10,West,In-Store,Home,Desk Lamp,39,1,0.15,CUST-425,33.15
+ORD-1563,2024-06-10,East,In-Store,Electronics,USB-C Hub,29,1,0.0,CUST-287,29.0
+ORD-1497,2024-06-11,South,Online,Clothing,Hoodie,55,2,0.0,CUST-617,110.0
+ORD-1672,2024-06-11,East,Online,Clothing,Sneakers,95,2,0.0,CUST-729,190.0
+ORD-1394,2024-06-11,East,Online,Home,Desk Lamp,39,1,0.1,CUST-820,35.1
+ORD-1402,2024-06-11,South,Online,Sports,Yoga Mat,30,1,0.15,CUST-608,25.5
+ORD-1968,2024-06-11,West,Online,Sports,Yoga Mat,30,1,0.0,CUST-595,30.0
+ORD-1407,2024-06-12,North,Online,Electronics,Wireless Headphones,79,1,0.0,CUST-450,79.0
+ORD-1369,2024-06-12,North,In-Store,Clothing,T-Shirt,22,1,0.0,CUST-222,22.0
+ORD-1795,2024-06-12,East,In-Store,Sports,Water Bottle,18,4,0.0,CUST-585,72.0
+ORD-1188,2024-06-12,East,Online,Electronics,Laptop Stand,35,1,0.15,CUST-240,29.75
+ORD-1339,2024-06-13,West,In-Store,Home,Desk Lamp,39,1,0.1,CUST-245,35.1
+ORD-1202,2024-06-13,East,In-Store,Sports,Water Bottle,18,1,0.0,CUST-413,18.0
+ORD-1427,2024-06-13,West,Online,Clothing,Sneakers,95,2,0.0,CUST-292,190.0
+ORD-2199,2024-06-14,South,In-Store,Sports,Dumbbell Set,120,1,0.15,CUST-461,102.0
+ORD-1399,2024-06-14,South,In-Store,Sports,Yoga Mat,30,1,0.0,CUST-754,30.0
+ORD-1985,2024-06-14,West,In-Store,Sports,Yoga Mat,30,3,0.0,CUST-224,90.0
+ORD-1496,2024-06-14,East,In-Store,Sports,Water Bottle,18,1,0.0,CUST-686,18.0
+ORD-2093,2024-06-15,Unknown,In-Store,Clothing,Hoodie,55,5,0.05,CUST-509,261.25
+ORD-1697,2024-06-15,North,Online,Home,Throw Pillow Set,45,2,0.0,CUST-586,90.0
+ORD-1070,2024-06-16,West,In-Store,Sports,Dumbbell Set,120,1,0.0,CUST-870,120.0
+ORD-2012,2024-06-16,East,Online,Home,Throw Pillow Set,45,2,0.0,CUST-620,90.0
+ORD-1299,2024-06-16,East,In-Store,Clothing,Sneakers,95,5,0.0,CUST-602,475.0
+ORD-2098,2024-06-16,East,Online,Sports,Yoga Mat,30,1,0.1,CUST-836,27.0
+ORD-2022,2024-06-17,East,Online,Home,Throw Pillow Set,45,1,0.0,CUST-822,45.0
+ORD-1740,2024-06-17,North,In-Store,Sports,Dumbbell Set,120,1,0.1,CUST-589,108.0
+ORD-1284,2024-06-17,Unknown,In-Store,Sports,Dumbbell Set,120,1,0.0,CUST-663,120.0
+ORD-1444,2024-06-18,East,In-Store,Clothing,Sneakers,95,2,0.0,CUST-220,190.0
+ORD-2063,2024-06-18,South,Online,Electronics,Bluetooth Speaker,49,3,0.0,CUST-780,147.0
+ORD-2004,2024-06-18,West,Online,Home,Desk Lamp,39,1,0.1,CUST-509,35.1
+ORD-1505,2024-06-18,North,Online,Home,Coffee Maker,89,1,0.0,CUST-282,89.0
+ORD-2108,2024-06-19,South,Online,Sports,Yoga Mat,30,5,0.0,CUST-817,150.0
+ORD-1279,2024-06-19,North,Online,Home,Storage Bins,25,1,0.0,CUST-294,25.0
+ORD-1661,2024-06-20,South,Online,Sports,Yoga Mat,30,2,0.0,CUST-248,60.0
+ORD-1443,2024-06-20,South,In-Store,Clothing,T-Shirt,22,4,0.05,CUST-328,83.6
+ORD-1624,2024-06-20,West,In-Store,Sports,Yoga Mat,30,2,0.0,CUST-223,60.0
+ORD-2051,2024-06-21,North,Online,Sports,Yoga Mat,30,5,0.1,CUST-198,135.0
+ORD-1343,2024-06-21,South,In-Store,Clothing,Jeans,65,3,0.0,CUST-451,195.0
+ORD-1027,2024-06-22,North,Online,Electronics,Wireless Headphones,79,1,0.1,CUST-296,71.1
+ORD-1642,2024-06-23,South,Online,Electronics,Laptop Stand,35,1,0.1,CUST-847,31.5
+ORD-1990,2024-06-23,East,Online,Electronics,USB-C Hub,29,1,0.1,CUST-174,26.1
+ORD-1157,2024-06-23,East,In-Store,Home,Storage Bins,25,1,0.0,CUST-895,25.0
+ORD-1090,2024-06-23,North,In-Store,Clothing,Sneakers,95,1,0.0,CUST-589,95.0
+ORD-2001,2024-06-23,West,In-Store,Home,Desk Lamp,39,2,0.0,CUST-714,78.0
+ORD-1397,2024-06-23,East,Online,Clothing,T-Shirt,22,3,0.05,CUST-122,62.7
+ORD-1743,2024-06-23,West,In-Store,Electronics,Laptop Stand,35,1,0.0,CUST-763,35.0
+ORD-1577,2024-06-24,East,In-Store,Sports,Yoga Mat,30,1,0.0,CUST-827,30.0
+ORD-1975,2024-06-24,West,In-Store,Home,Throw Pillow Set,45,3,0.05,CUST-351,128.25
+ORD-1485,2024-06-24,West,Online,Home,Throw Pillow Set,45,1,0.15,CUST-241,38.25
+ORD-1717,2024-06-24,North,In-Store,Electronics,Laptop Stand,35,2,0.0,CUST-564,70.0
+ORD-2089,2024-06-24,South,In-Store,Sports,Dumbbell Set,120,1,0.15,CUST-781,102.0
+ORD-1005,2024-06-25,North,In-Store,Sports,Yoga Mat,30,1,0.05,CUST-649,28.5
+ORD-2157,2024-06-25,South,Online,Electronics,Wireless Headphones,79,1,0.0,CUST-794,79.0
+ORD-1195,2024-06-25,North,In-Store,Electronics,Laptop Stand,35,2,0.0,CUST-236,70.0
+ORD-1423,2024-06-25,East,In-Store,Electronics,Laptop Stand,35,3,0.1,CUST-770,94.5
+ORD-1363,2024-06-26,East,Online,Home,Coffee Maker,89,1,0.0,CUST-480,89.0
+ORD-1298,2024-06-26,West,Online,Home,Coffee Maker,89,1,0.0,CUST-177,89.0
+ORD-1037,2024-06-27,South,In-Store,Home,Throw Pillow Set,45,1,0.1,CUST-391,40.5
+ORD-1955,2024-06-27,North,In-Store,Sports,Yoga Mat,30,1,0.0,CUST-592,30.0
+ORD-1243,2024-06-27,East,In-Store,Home,Storage Bins,25,1,0.0,CUST-224,25.0
+ORD-1823,2024-06-28,South,In-Store,Home,Desk Lamp,39,1,0.0,CUST-693,39.0
+ORD-2149,2024-06-28,South,In-Store,Clothing,Jeans,65,1,0.1,CUST-463,58.5
+ORD-2165,2024-06-28,South,In-Store,Clothing,Jeans,65,1,0.05,CUST-148,61.75
+ORD-1731,2024-06-28,East,In-Store,Electronics,Wireless Headphones,79,2,0.0,CUST-297,158.0
+ORD-2126,2024-06-29,South,Online,Sports,Dumbbell Set,120,1,0.05,CUST-778,114.0
+ORD-1066,2024-06-29,West,In-Store,Electronics,USB-C Hub,29,1,0.0,CUST-651,29.0
+ORD-2139,2024-06-30,East,In-Store,Sports,Water Bottle,18,1,0.05,CUST-538,17.1
+ORD-2090,2024-07-01,North,Online,Sports,Gym Bag,40,2,0.1,CUST-567,72.0
+ORD-1621,2024-07-01,East,In-Store,Home,Coffee Maker,89,1,0.0,CUST-696,89.0
+ORD-1649,2024-07-02,West,Online,Home,Desk Lamp,39,2,0.0,CUST-614,78.0
+ORD-1125,2024-07-02,East,Online,Electronics,Bluetooth Speaker,49,1,0.0,CUST-774,49.0
+ORD-2048,2024-07-02,North,Online,Electronics,Laptop Stand,35,1,0.0,CUST-552,35.0
+ORD-1926,2024-07-02,East,Online,Home,Coffee Maker,89,5,0.1,CUST-278,400.5
+ORD-1742,2024-07-02,East,In-Store,Sports,Yoga Mat,30,2,0.0,CUST-156,60.0
+ORD-1390,2024-07-02,West,In-Store,Electronics,USB-C Hub,29,2,0.0,CUST-679,58.0
+ORD-1828,2024-07-03,North,Online,Electronics,Bluetooth Speaker,49,1,0.05,CUST-435,46.55
+ORD-1710,2024-07-03,South,In-Store,Home,Storage Bins,25,3,0.1,CUST-786,67.5
+ORD-2006,2024-07-03,North,Online,Sports,Water Bottle,18,2,0.0,CUST-302,36.0
+ORD-1165,2024-07-04,North,Online,Home,Storage Bins,25,3,0.0,CUST-546,75.0
+ORD-1144,2024-07-04,North,In-Store,Electronics,USB-C Hub,29,1,0.0,CUST-615,29.0
+ORD-1260,2024-07-04,North,Online,Electronics,USB-C Hub,29,1,0.0,CUST-660,29.0
+ORD-1850,2024-07-05,South,In-Store,Clothing,T-Shirt,22,2,0.15,CUST-750,37.4
+ORD-1008,2024-07-05,East,Online,Clothing,Sneakers,95,2,0.0,CUST-786,190.0
+ORD-1206,2024-07-06,North,Online,Electronics,Bluetooth Speaker,49,2,0.0,CUST-795,98.0
+ORD-1229,2024-07-06,Unknown,Online,Sports,Water Bottle,18,3,0.05,CUST-510,51.3
+ORD-1779,2024-07-06,North,In-Store,Clothing,Hoodie,55,1,0.0,CUST-475,55.0
+ORD-1213,2024-07-07,South,Online,Electronics,Laptop Stand,35,2,0.0,CUST-167,70.0
+ORD-1903,2024-07-07,West,In-Store,Sports,Yoga Mat,30,2,0.05,CUST-195,57.0
+ORD-1878,2024-07-07,North,Online,Sports,Dumbbell Set,120,1,0.0,CUST-835,120.0
+ORD-1137,2024-07-08,West,Online,Sports,Dumbbell Set,120,1,0.0,CUST-471,120.0
+ORD-1346,2024-07-09,South,Online,Electronics,Laptop Stand,35,1,0.05,CUST-505,33.25
+ORD-1151,2024-07-09,North,In-Store,Electronics,Wireless Headphones,79,1,0.1,CUST-786,71.1
+ORD-1684,2024-07-10,Unknown,Online,Home,Throw Pillow Set,45,1,0.0,CUST-554,45.0
+ORD-2050,2024-07-10,South,Online,Sports,Water Bottle,18,4,0.0,CUST-116,72.0
+ORD-1075,2024-07-11,South,Online,Electronics,Laptop Stand,35,2,0.0,CUST-706,70.0
+ORD-1840,2024-07-11,North,Online,Sports,Gym Bag,40,1,0.0,CUST-281,40.0
+ORD-1300,2024-07-11,West,Online,Home,Throw Pillow Set,45,2,0.0,CUST-890,90.0
+ORD-1876,2024-07-12,South,Online,Sports,Dumbbell Set,120,1,0.15,CUST-123,102.0
+ORD-2133,2024-07-12,South,In-Store,Home,Throw Pillow Set,45,1,0.15,CUST-207,38.25
+ORD-1956,2024-07-12,South,Online,Clothing,Sneakers,95,4,0.0,CUST-616,380.0
+ORD-1669,2024-07-13,West,Online,Clothing,Jeans,65,1,0.1,CUST-399,58.5
+ORD-1638,2024-07-13,North,In-Store,Clothing,Sneakers,95,1,0.0,CUST-596,95.0
+ORD-2163,2024-07-13,East,Online,Home,Coffee Maker,89,3,0.0,CUST-327,267.0
+ORD-1469,2024-07-13,North,Online,Sports,Gym Bag,40,1,0.05,CUST-594,38.0
+ORD-1570,2024-07-14,South,In-Store,Clothing,T-Shirt,22,2,0.0,CUST-109,44.0
+ORD-2070,2024-07-14,North,In-Store,Home,Storage Bins,25,1,0.0,CUST-709,25.0
+ORD-2064,2024-07-14,South,In-Store,Home,Desk Lamp,39,2,0.0,CUST-744,78.0
+ORD-1184,2024-07-14,West,Online,Sports,Gym Bag,40,2,0.0,CUST-304,80.0
+ORD-1389,2024-07-15,South,Online,Sports,Yoga Mat,30,1,0.0,CUST-745,30.0
+ORD-1744,2024-07-15,East,In-Store,Home,Desk Lamp,39,2,0.05,CUST-209,74.1
+ORD-1064,2024-07-15,South,Online,Electronics,Bluetooth Speaker,49,1,0.05,CUST-524,46.55
+ORD-1330,2024-07-15,West,In-Store,Electronics,USB-C Hub,29,1,0.15,CUST-801,24.65
+ORD-1433,2024-07-16,South,Online,Clothing,Hoodie,55,1,0.0,CUST-762,55.0
+ORD-2030,2024-07-16,North,In-Store,Home,Storage Bins,25,1,0.0,CUST-683,25.0
+ORD-1015,2024-07-16,West,In-Store,Home,Storage Bins,25,2,0.0,CUST-666,50.0
+ORD-2193,2024-07-16,East,Online,Home,Coffee Maker,89,1,0.0,CUST-800,89.0
+ORD-1417,2024-07-17,West,In-Store,Sports,Water Bottle,18,2,0.1,CUST-686,32.4
+ORD-1650,2024-07-17,South,Online,Sports,Dumbbell Set,120,1,0.0,CUST-297,120.0
+ORD-1492,2024-07-17,East,Online,Clothing,Hoodie,55,4,0.0,CUST-113,220.0
+ORD-1297,2024-07-18,East,In-Store,Home,Desk Lamp,39,2,0.05,CUST-873,74.1
+ORD-2198,2024-07-18,West,Online,Home,Desk Lamp,39,1,0.0,CUST-215,39.0
+ORD-1507,2024-07-18,North,Online,Sports,Gym Bag,40,1,0.05,CUST-874,38.0
+ORD-1693,2024-07-19,West,In-Store,Sports,Yoga Mat,30,1,0.0,CUST-419,30.0
+ORD-1987,2024-07-19,North,Online,Sports,Gym Bag,40,1,0.0,CUST-855,40.0
+ORD-1729,2024-07-19,South,Online,Electronics,Laptop Stand,35,2,0.0,CUST-632,70.0
+ORD-2109,2024-07-19,South,Online,Electronics,Bluetooth Speaker,49,3,0.0,CUST-661,147.0
+ORD-1917,2024-07-19,North,Online,Home,Desk Lamp,39,1,0.0,CUST-745,39.0
+ORD-1937,2024-07-20,South,Online,Sports,Water Bottle,18,1,0.05,CUST-746,17.1
+ORD-1311,2024-07-20,South,Online,Home,Throw Pillow Set,45,1,0.0,CUST-798,45.0
+ORD-1627,2024-07-20,East,Online,Electronics,Bluetooth Speaker,49,1,0.0,CUST-587,49.0
+ORD-1231,2024-07-20,East,In-Store,Electronics,Bluetooth Speaker,49,5,0.0,CUST-873,245.0
+ORD-1012,2024-07-21,West,Online,Clothing,T-Shirt,22,2,0.1,CUST-371,39.6
+ORD-2053,2024-07-21,North,Online,Home,Desk Lamp,39,4,0.15,CUST-318,132.6
+ORD-1418,2024-07-21,North,Online,Home,Storage Bins,25,1,0.1,CUST-223,22.5
+ORD-2016,2024-07-21,West,In-Store,Home,Storage Bins,25,3,0.0,CUST-685,75.0
+ORD-1958,2024-07-21,North,In-Store,Sports,Gym Bag,40,1,0.0,CUST-853,40.0
+ORD-1117,2024-07-22,East,In-Store,Clothing,Jeans,65,2,0.05,CUST-424,123.5
+ORD-1883,2024-07-22,West,In-Store,Home,Throw Pillow Set,45,5,0.05,CUST-853,213.75
+ORD-1291,2024-07-22,West,In-Store,Clothing,Jeans,65,1,0.0,CUST-678,65.0
+ORD-1421,2024-07-22,East,In-Store,Electronics,Wireless Headphones,79,1,0.0,CUST-112,79.0
+ORD-1310,2024-07-22,East,In-Store,Home,Storage Bins,25,1,0.15,CUST-689,21.25
+ORD-2044,2024-07-22,Unknown,Online,Clothing,Sneakers,95,3,0.0,CUST-826,285.0
+ORD-2156,2024-07-23,West,Online,Home,Throw Pillow Set,45,2,0.0,CUST-212,90.0
+ORD-2037,2024-07-23,South,In-Store,Electronics,Bluetooth Speaker,49,1,0.05,CUST-682,46.55
+ORD-1628,2024-07-23,South,Online,Electronics,USB-C Hub,29,1,0.0,CUST-592,29.0
+ORD-1832,2024-07-24,North,Online,Electronics,Wireless Headphones,79,1,0.05,CUST-166,75.05
+ORD-1156,2024-07-24,North,Online,Home,Desk Lamp,39,2,0.0,CUST-864,78.0
+ORD-2015,2024-07-24,North,Online,Sports,Gym Bag,40,1,0.05,CUST-324,38.0
+ORD-1359,2024-07-24,South,In-Store,Clothing,Sneakers,95,1,0.0,CUST-185,95.0
+ORD-1797,2024-07-24,South,In-Store,Home,Coffee Maker,89,1,0.05,CUST-465,84.55
+ORD-1232,2024-07-24,North,Online,Home,Desk Lamp,39,2,0.0,CUST-240,78.0
+ORD-1030,2024-07-24,South,In-Store,Sports,Gym Bag,40,1,0.1,CUST-102,36.0
+ORD-1900,2024-07-25,South,Online,Home,Desk Lamp,39,1,0.0,CUST-405,39.0
+ORD-1498,2024-07-25,South,Online,Home,Storage Bins,25,1,0.0,CUST-779,25.0
+ORD-1776,2024-07-26,East,In-Store,Sports,Water Bottle,18,3,0.0,CUST-820,54.0
+ORD-1257,2024-07-26,East,Online,Electronics,USB-C Hub,29,1,0.05,CUST-754,27.55
+ORD-1322,2024-07-26,Unknown,In-Store,Sports,Gym Bag,40,1,0.05,CUST-505,38.0
+ORD-1552,2024-07-26,North,Online,Sports,Dumbbell Set,120,2,0.0,CUST-192,240.0
+ORD-1428,2024-07-27,East,Online,Sports,Water Bottle,18,4,0.05,CUST-627,68.4
+ORD-1774,2024-07-27,South,In-Store,Electronics,Wireless Headphones,79,2,0.15,CUST-402,134.3
+ORD-1965,2024-07-27,North,In-Store,Electronics,Bluetooth Speaker,49,1,0.05,CUST-285,46.55
+ORD-1379,2024-07-27,East,Online,Home,Storage Bins,25,1,0.0,CUST-562,25.0
+ORD-1434,2024-07-28,North,In-Store,Home,Desk Lamp,39,1,0.0,CUST-235,39.0
+ORD-1338,2024-07-29,East,Online,Clothing,Hoodie,55,1,0.1,CUST-818,49.5
+ORD-1543,2024-07-30,West,Online,Clothing,Sneakers,95,2,0.0,CUST-479,190.0
+ORD-1765,2024-07-30,West,Online,Home,Coffee Maker,89,1,0.1,CUST-175,80.1
+ORD-1446,2024-07-30,South,Online,Electronics,USB-C Hub,29,1,0.0,CUST-305,29.0
+ORD-1617,2024-07-30,West,In-Store,Clothing,Jeans,65,3,0.05,CUST-723,185.25
+ORD-1857,2024-07-30,East,Online,Clothing,Hoodie,55,2,0.0,CUST-362,110.0
+ORD-1803,2024-07-31,North,Online,Home,Storage Bins,25,2,0.0,CUST-312,50.0
+ORD-1159,2024-07-31,North,In-Store,Sports,Gym Bag,40,2,0.0,CUST-540,80.0
+ORD-1712,2024-07-31,West,Online,Electronics,Bluetooth Speaker,49,2,0.1,CUST-565,88.2
+ORD-1482,2024-07-31,North,In-Store,Home,Throw Pillow Set,45,1,0.0,CUST-568,45.0
+ORD-1925,2024-07-31,West,In-Store,Home,Storage Bins,25,1,0.15,CUST-340,21.25
+ORD-1754,2024-07-31,East,Online,Electronics,Laptop Stand,35,1,0.0,CUST-549,35.0
+ORD-1187,2024-07-31,East,Online,Sports,Dumbbell Set,120,4,0.0,CUST-495,480.0
+ORD-1065,2024-07-31,West,In-Store,Sports,Dumbbell Set,120,1,0.0,CUST-888,120.0
+ORD-2073,2024-07-31,East,In-Store,Clothing,Sneakers,95,1,0.15,CUST-601,80.75
+ORD-1111,2024-07-31,East,Online,Home,Coffee Maker,89,1,0.0,CUST-389,89.0
+ORD-1963,2024-07-31,East,In-Store,Electronics,Laptop Stand,35,1,0.0,CUST-363,35.0
+ORD-1193,2024-08-01,North,In-Store,Electronics,Laptop Stand,35,1,0.0,CUST-169,35.0
+ORD-1164,2024-08-01,West,Online,Sports,Gym Bag,40,2,0.0,CUST-432,80.0
+ORD-1812,2024-08-02,East,Online,Home,Coffee Maker,89,1,0.05,CUST-396,84.55
+ORD-2173,2024-08-02,North,Online,Electronics,USB-C Hub,29,1,0.0,CUST-713,29.0
+ORD-2002,2024-08-02,North,In-Store,Clothing,Jeans,65,2,0.0,CUST-143,130.0
+ORD-1568,2024-08-02,East,In-Store,Home,Storage Bins,25,1,0.05,CUST-510,23.75
+ORD-1269,2024-08-02,North,Online,Electronics,Wireless Headphones,79,3,0.05,CUST-311,225.15
+ORD-2154,2024-08-03,North,Online,Clothing,Hoodie,55,1,0.05,CUST-782,52.25
+ORD-1349,2024-08-04,West,Online,Clothing,Hoodie,55,5,0.05,CUST-334,261.25
+ORD-1971,2024-08-04,West,Online,Home,Desk Lamp,39,1,0.15,CUST-101,33.15
+ORD-1782,2024-08-04,North,In-Store,Clothing,Jeans,65,1,0.0,CUST-453,65.0
+ORD-2028,2024-08-05,West,In-Store,Clothing,Jeans,65,1,0.05,CUST-433,61.75
+ORD-2076,2024-08-05,South,In-Store,Clothing,Hoodie,55,2,0.05,CUST-135,104.5
+ORD-1752,2024-08-06,West,In-Store,Home,Coffee Maker,89,3,0.0,CUST-223,267.0
+ORD-2114,2024-08-06,South,Online,Electronics,Bluetooth Speaker,49,1,0.05,CUST-198,46.55
+ORD-2011,2024-08-07,South,Online,Sports,Dumbbell Set,120,1,0.15,CUST-881,102.0
+ORD-1323,2024-08-07,South,Online,Electronics,Bluetooth Speaker,49,1,0.0,CUST-385,49.0
+ORD-2026,2024-08-07,West,Online,Electronics,Laptop Stand,35,3,0.05,CUST-549,99.75
+ORD-1845,2024-08-07,East,In-Store,Electronics,Laptop Stand,35,1,0.0,CUST-459,35.0
+ORD-1830,2024-08-07,North,In-Store,Sports,Dumbbell Set,120,5,0.0,CUST-795,600.0
+ORD-1309,2024-08-08,South,In-Store,Sports,Dumbbell Set,120,1,0.1,CUST-428,108.0
+ORD-1148,2024-08-08,North,Online,Clothing,Sneakers,95,1,0.0,CUST-540,95.0
+ORD-1162,2024-08-08,West,Online,Clothing,Hoodie,55,1,0.0,CUST-612,55.0
+ORD-1587,2024-08-08,South,Online,Sports,Gym Bag,40,1,0.05,CUST-661,38.0
+ORD-1880,2024-08-08,South,In-Store,Clothing,Sneakers,95,1,0.1,CUST-844,85.5
+ORD-1316,2024-08-08,North,In-Store,Sports,Dumbbell Set,120,5,0.0,CUST-327,600.0
+ORD-1026,2024-08-08,West,In-Store,Home,Coffee Maker,89,1,0.0,CUST-846,89.0
+ORD-1887,2024-08-09,North,In-Store,Electronics,Laptop Stand,35,2,0.0,CUST-145,70.0
+ORD-1599,2024-08-10,South,In-Store,Home,Coffee Maker,89,1,0.0,CUST-698,89.0
+ORD-2184,2024-08-10,West,Online,Sports,Water Bottle,18,2,0.0,CUST-607,36.0
+ORD-2153,2024-08-10,South,Online,Sports,Water Bottle,18,1,0.0,CUST-294,18.0
+ORD-1420,2024-08-10,South,In-Store,Sports,Yoga Mat,30,5,0.0,CUST-427,150.0
+ORD-1067,2024-08-11,West,In-Store,Home,Storage Bins,25,1,0.0,CUST-784,25.0
+ORD-1766,2024-08-11,West,Online,Sports,Gym Bag,40,1,0.0,CUST-496,40.0
+ORD-1929,2024-08-12,North,Online,Electronics,Wireless Headphones,79,4,0.05,CUST-725,300.2
+ORD-1652,2024-08-12,West,In-Store,Home,Desk Lamp,39,1,0.1,CUST-568,35.1
+ORD-1405,2024-08-12,South,In-Store,Electronics,Wireless Headphones,79,1,0.05,CUST-604,75.05
+ORD-1922,2024-08-12,South,In-Store,Clothing,T-Shirt,22,1,0.0,CUST-716,22.0
+ORD-1470,2024-08-13,East,In-Store,Sports,Yoga Mat,30,3,0.0,CUST-112,90.0
+ORD-1200,2024-08-13,West,In-Store,Clothing,Sneakers,95,3,0.1,CUST-291,256.5
+ORD-1724,2024-08-13,South,Online,Sports,Gym Bag,40,1,0.05,CUST-691,38.0
+ORD-1796,2024-08-14,North,In-Store,Clothing,T-Shirt,22,2,0.0,CUST-141,44.0
+ORD-1585,2024-08-14,West,In-Store,Sports,Water Bottle,18,3,0.0,CUST-259,54.0
+ORD-1493,2024-08-14,East,Online,Clothing,T-Shirt,22,2,0.1,CUST-894,39.6
+ORD-1061,2024-08-14,West,In-Store,Sports,Dumbbell Set,120,4,0.05,CUST-262,456.0
+ORD-1596,2024-08-14,North,Online,Electronics,Bluetooth Speaker,49,1,0.0,CUST-571,49.0
+ORD-1203,2024-08-15,North,In-Store,Sports,Gym Bag,40,1,0.0,CUST-729,40.0
+ORD-1802,2024-08-15,West,In-Store,Electronics,Bluetooth Speaker,49,2,0.05,CUST-395,93.1
+ORD-1916,2024-08-15,West,Online,Home,Desk Lamp,39,2,0.15,CUST-560,66.3
+ORD-1578,2024-08-15,East,In-Store,Clothing,Sneakers,95,1,0.05,CUST-523,90.25
+ORD-1703,2024-08-15,West,Online,Sports,Dumbbell Set,120,2,0.0,CUST-712,240.0
+ORD-1331,2024-08-15,North,Online,Sports,Gym Bag,40,2,0.0,CUST-879,80.0
+ORD-1970,2024-08-16,South,Online,Home,Throw Pillow Set,45,2,0.0,CUST-482,90.0
+ORD-1799,2024-08-16,North,In-Store,Electronics,Wireless Headphones,79,1,0.05,CUST-299,75.05
+ORD-1112,2024-08-16,East,In-Store,Clothing,Sneakers,95,3,0.0,CUST-665,285.0
+ORD-1270,2024-08-16,North,Online,Electronics,Wireless Headphones,79,2,0.0,CUST-858,158.0
+ORD-1727,2024-08-17,East,Online,Home,Storage Bins,25,1,0.0,CUST-199,25.0
+ORD-1658,2024-08-18,West,Online,Home,Storage Bins,25,1,0.0,CUST-565,25.0
+ORD-1747,2024-08-18,North,Online,Clothing,Sneakers,95,1,0.15,CUST-447,80.75
+ORD-1210,2024-08-19,West,Online,Electronics,Bluetooth Speaker,49,3,0.0,CUST-798,147.0
+ORD-1705,2024-08-19,West,In-Store,Electronics,Bluetooth Speaker,49,2,0.0,CUST-300,98.0
+ORD-1031,2024-08-20,West,Online,Sports,Dumbbell Set,120,4,0.0,CUST-294,480.0
+ORD-1149,2024-08-20,North,In-Store,Sports,Water Bottle,18,1,0.0,CUST-537,18.0
+ORD-1478,2024-08-20,West,In-Store,Clothing,Hoodie,55,3,0.0,CUST-833,165.0
+ORD-1525,2024-08-20,North,In-Store,Home,Throw Pillow Set,45,1,0.1,CUST-205,40.5
+ORD-1467,2024-08-21,West,In-Store,Home,Coffee Maker,89,1,0.0,CUST-531,89.0
+ORD-1430,2024-08-21,East,Online,Home,Coffee Maker,89,1,0.0,CUST-380,89.0
+ORD-1829,2024-08-21,East,In-Store,Sports,Yoga Mat,30,1,0.05,CUST-331,28.5
+ORD-1124,2024-08-21,South,In-Store,Clothing,Sneakers,95,2,0.1,CUST-594,171.0
+ORD-1784,2024-08-22,West,Online,Clothing,Hoodie,55,1,0.0,CUST-395,55.0
+ORD-1935,2024-08-22,East,Online,Sports,Gym Bag,40,4,0.15,CUST-553,136.0
+ORD-1556,2024-08-22,North,In-Store,Sports,Water Bottle,18,2,0.05,CUST-219,34.2
+ORD-1447,2024-08-22,South,Online,Clothing,Sneakers,95,5,0.0,CUST-599,475.0
+ORD-1326,2024-08-22,East,Online,Sports,Yoga Mat,30,1,0.05,CUST-788,28.5
+ORD-1639,2024-08-22,North,Online,Electronics,Bluetooth Speaker,49,1,0.0,CUST-353,49.0
+ORD-1197,2024-08-22,South,Online,Home,Desk Lamp,39,1,0.0,CUST-304,39.0
+ORD-1078,2024-08-23,West,Online,Sports,Dumbbell Set,120,2,0.05,CUST-851,228.0
+ORD-1344,2024-08-23,South,In-Store,Electronics,Wireless Headphones,79,1,0.0,CUST-567,79.0
+ORD-1518,2024-08-24,East,In-Store,Home,Throw Pillow Set,45,3,0.0,CUST-664,135.0
+ORD-2045,2024-08-25,North,Online,Home,Throw Pillow Set,45,2,0.0,CUST-661,90.0
+ORD-2014,2024-08-25,East,In-Store,Sports,Dumbbell Set,120,1,0.0,CUST-832,120.0
+ORD-1915,2024-08-25,West,Online,Home,Coffee Maker,89,1,0.0,CUST-219,89.0
+ORD-1317,2024-08-25,South,In-Store,Home,Storage Bins,25,1,0.05,CUST-125,23.75
+ORD-2071,2024-08-25,East,In-Store,Home,Desk Lamp,39,1,0.0,CUST-675,39.0
+ORD-1907,2024-08-25,East,In-Store,Electronics,USB-C Hub,29,1,0.05,CUST-360,27.55
+ORD-2018,2024-08-26,East,In-Store,Clothing,T-Shirt,22,2,0.0,CUST-561,44.0
+ORD-1605,2024-08-27,South,Online,Home,Throw Pillow Set,45,1,0.0,CUST-643,45.0
+ORD-1252,2024-08-27,North,In-Store,Sports,Water Bottle,18,3,0.0,CUST-266,54.0
+ORD-1583,2024-08-27,East,In-Store,Clothing,Jeans,65,3,0.15,CUST-238,165.75
+ORD-1855,2024-08-27,West,Online,Home,Storage Bins,25,1,0.0,CUST-634,25.0
+ORD-1226,2024-08-27,East,In-Store,Home,Storage Bins,25,5,0.0,CUST-123,125.0
+ORD-2072,2024-08-28,South,Online,Sports,Yoga Mat,30,1,0.0,CUST-113,30.0
+ORD-1848,2024-08-28,East,In-Store,Sports,Dumbbell Set,120,1,0.0,CUST-684,120.0
+ORD-2013,2024-08-28,North,Online,Sports,Water Bottle,18,2,0.05,CUST-620,34.2
+ORD-1103,2024-08-28,East,In-Store,Sports,Gym Bag,40,5,0.0,CUST-786,200.0
+ORD-1282,2024-08-28,East,Online,Sports,Gym Bag,40,1,0.05,CUST-479,38.0
+ORD-1071,2024-08-28,North,In-Store,Sports,Dumbbell Set,120,3,0.0,CUST-329,360.0
+ORD-1259,2024-08-29,South,Online,Clothing,Sneakers,95,2,0.05,CUST-796,180.5
+ORD-1533,2024-08-29,South,Online,Home,Storage Bins,25,2,0.1,CUST-520,45.0
+ORD-1189,2024-08-29,South,In-Store,Electronics,Laptop Stand,35,4,0.05,CUST-559,133.0
+ORD-1110,2024-08-29,South,In-Store,Clothing,Sneakers,95,3,0.0,CUST-295,285.0
+ORD-1247,2024-08-29,South,Online,Electronics,USB-C Hub,29,1,0.0,CUST-663,29.0
+ORD-1634,2024-08-29,South,Online,Clothing,Hoodie,55,1,0.0,CUST-308,55.0
+ORD-1133,2024-08-29,East,Online,Clothing,Hoodie,55,2,0.0,CUST-763,110.0
+ORD-1547,2024-08-29,West,Online,Electronics,Wireless Headphones,79,3,0.15,CUST-165,201.45
+ORD-1392,2024-08-29,South,Online,Clothing,Hoodie,55,3,0.0,CUST-202,165.0
+ORD-2171,2024-08-30,South,Online,Electronics,Laptop Stand,35,1,0.15,CUST-144,29.75
+ORD-1114,2024-08-30,West,In-Store,Sports,Yoga Mat,30,1,0.05,CUST-779,28.5
+ORD-2110,2024-08-30,West,In-Store,Sports,Dumbbell Set,120,1,0.15,CUST-173,102.0
+ORD-1432,2024-08-30,East,In-Store,Sports,Gym Bag,40,1,0.0,CUST-267,40.0
+ORD-1933,2024-08-30,South,Online,Electronics,Bluetooth Speaker,49,3,0.0,CUST-372,147.0
+ORD-2094,2024-08-31,North,In-Store,Electronics,Laptop Stand,35,1,0.15,CUST-400,29.75
+ORD-1810,2024-08-31,North,In-Store,Sports,Dumbbell Set,120,2,0.15,CUST-624,204.0
+ORD-1248,2024-08-31,South,In-Store,Home,Storage Bins,25,2,0.0,CUST-428,50.0
+ORD-1948,2024-08-31,North,In-Store,Electronics,USB-C Hub,29,3,0.0,CUST-793,87.0
+ORD-1425,2024-08-31,East,Online,Clothing,T-Shirt,22,1,0.15,CUST-445,18.7
+ORD-1539,2024-09-01,North,In-Store,Electronics,USB-C Hub,29,1,0.05,CUST-712,27.55
+ORD-1678,2024-09-02,North,Online,Clothing,Jeans,65,4,0.1,CUST-593,234.0
+ORD-2190,2024-09-02,West,Online,Clothing,Hoodie,55,1,0.05,CUST-414,52.25
+ORD-1314,2024-09-02,West,Online,Electronics,USB-C Hub,29,5,0.0,CUST-468,145.0
+ORD-1530,2024-09-02,South,In-Store,Clothing,Hoodie,55,1,0.0,CUST-122,55.0
+ORD-1214,2024-09-02,West,Online,Clothing,Sneakers,95,5,0.0,CUST-228,475.0
+ORD-1997,2024-09-03,West,Online,Home,Throw Pillow Set,45,1,0.05,CUST-348,42.75
+ORD-1185,2024-09-03,North,Online,Home,Throw Pillow Set,45,1,0.1,CUST-391,40.5
+ORD-1715,2024-09-03,North,Online,Sports,Dumbbell Set,120,1,0.15,CUST-847,102.0
+ORD-1538,2024-09-03,Unknown,In-Store,Sports,Water Bottle,18,4,0.05,CUST-703,68.4
+ORD-1222,2024-09-04,East,Online,Electronics,Bluetooth Speaker,49,1,0.0,CUST-420,49.0
+ORD-1307,2024-09-04,Unknown,In-Store,Sports,Dumbbell Set,120,1,0.05,CUST-352,114.0
+ORD-1953,2024-09-05,South,Online,Clothing,Jeans,65,1,0.0,CUST-703,65.0
+ORD-1341,2024-09-06,North,Online,Clothing,Jeans,65,1,0.0,CUST-848,65.0
+ORD-2148,2024-09-06,North,In-Store,Electronics,USB-C Hub,29,3,0.0,CUST-436,87.0
+ORD-1902,2024-09-07,West,In-Store,Electronics,Laptop Stand,35,1,0.0,CUST-374,35.0
+ORD-1285,2024-09-07,West,In-Store,Clothing,Jeans,65,2,0.15,CUST-272,110.5
+ORD-2118,2024-09-07,South,Online,Electronics,Wireless Headphones,79,1,0.05,CUST-700,75.05
+ORD-1325,2024-09-07,East,In-Store,Electronics,Laptop Stand,35,2,0.0,CUST-725,70.0
+ORD-1849,2024-09-07,South,In-Store,Sports,Dumbbell Set,120,2,0.0,CUST-608,240.0
+ORD-1083,2024-09-08,North,Online,Home,Storage Bins,25,2,0.0,CUST-401,50.0
+ORD-1426,2024-09-08,North,Online,Clothing,Jeans,65,1,0.1,CUST-237,58.5
+ORD-1806,2024-09-08,East,In-Store,Home,Storage Bins,25,1,0.0,CUST-605,25.0
+ORD-1981,2024-09-09,North,In-Store,Clothing,T-Shirt,22,1,0.15,CUST-604,18.7
+ORD-1843,2024-09-10,West,In-Store,Home,Coffee Maker,89,1,0.0,CUST-884,89.0
+ORD-1891,2024-09-10,East,In-Store,Home,Storage Bins,25,1,0.0,CUST-568,25.0
+ORD-1879,2024-09-10,South,Online,Sports,Gym Bag,40,3,0.0,CUST-372,120.0
+ORD-1683,2024-09-11,East,In-Store,Electronics,Laptop Stand,35,1,0.1,CUST-409,31.5
+ORD-2019,2024-09-11,West,Online,Sports,Gym Bag,40,1,0.0,CUST-283,40.0
+ORD-1758,2024-09-12,North,In-Store,Home,Coffee Maker,89,2,0.05,CUST-456,169.1
+ORD-1931,2024-09-12,North,Online,Clothing,Sneakers,95,2,0.05,CUST-762,180.5
+ORD-1641,2024-09-13,North,In-Store,Clothing,T-Shirt,22,5,0.0,CUST-496,110.0
+ORD-1824,2024-09-13,South,Online,Clothing,Jeans,65,1,0.05,CUST-201,61.75
+ORD-1173,2024-09-13,North,In-Store,Home,Throw Pillow Set,45,2,0.0,CUST-205,90.0
+ORD-1886,2024-09-14,East,In-Store,Electronics,Bluetooth Speaker,49,1,0.0,CUST-235,49.0
+ORD-1816,2024-09-14,South,Online,Home,Coffee Maker,89,1,0.0,CUST-527,89.0
+ORD-1508,2024-09-14,East,Online,Electronics,Wireless Headphones,79,1,0.0,CUST-388,79.0
+ORD-1522,2024-09-14,South,Online,Sports,Yoga Mat,30,1,0.0,CUST-875,30.0
+ORD-1616,2024-09-15,South,In-Store,Home,Desk Lamp,39,1,0.0,CUST-460,39.0
+ORD-1520,2024-09-16,West,Online,Electronics,Wireless Headphones,79,3,0.05,CUST-137,225.15
+ORD-1153,2024-09-16,West,Online,Clothing,Jeans,65,1,0.0,CUST-210,65.0
+ORD-1554,2024-09-16,North,In-Store,Electronics,Laptop Stand,35,1,0.0,CUST-448,35.0
+ORD-1429,2024-09-16,North,Online,Home,Coffee Maker,89,1,0.0,CUST-297,89.0
+ORD-1355,2024-09-17,West,In-Store,Clothing,T-Shirt,22,1,0.0,CUST-761,22.0
+ORD-1367,2024-09-17,North,Online,Electronics,Wireless Headphones,79,1,0.0,CUST-147,79.0
+ORD-2175,2024-09-17,West,In-Store,Electronics,Bluetooth Speaker,49,1,0.0,CUST-721,49.0
+ORD-1534,2024-09-18,East,In-Store,Home,Desk Lamp,39,2,0.0,CUST-710,78.0
+ORD-1050,2024-09-18,South,In-Store,Clothing,Sneakers,95,2,0.0,CUST-145,190.0
+ORD-1575,2024-09-18,West,Online,Clothing,Jeans,65,1,0.0,CUST-490,65.0
+ORD-1800,2024-09-18,East,In-Store,Sports,Dumbbell Set,120,2,0.15,CUST-251,204.0
+ORD-2164,2024-09-18,North,In-Store,Clothing,Sneakers,95,1,0.0,CUST-212,95.0
+ORD-2052,2024-09-19,East,In-Store,Home,Desk Lamp,39,1,0.0,CUST-675,39.0
+ORD-1186,2024-09-19,West,Online,Electronics,Bluetooth Speaker,49,1,0.0,CUST-327,49.0
+ORD-1262,2024-09-19,North,In-Store,Sports,Yoga Mat,30,1,0.0,CUST-788,30.0
+ORD-2137,2024-09-19,South,Online,Home,Throw Pillow Set,45,1,0.05,CUST-487,42.75
+ORD-1198,2024-09-20,West,In-Store,Electronics,Laptop Stand,35,4,0.0,CUST-137,140.0
+ORD-1532,2024-09-21,North,In-Store,Home,Throw Pillow Set,45,4,0.15,CUST-187,153.0
+ORD-1936,2024-09-21,North,In-Store,Home,Coffee Maker,89,2,0.15,CUST-422,151.3
+ORD-1370,2024-09-21,West,Online,Electronics,Bluetooth Speaker,49,1,0.15,CUST-576,41.65
+ORD-1815,2024-09-22,West,In-Store,Clothing,T-Shirt,22,1,0.0,CUST-448,22.0
+ORD-1106,2024-09-22,West,In-Store,Sports,Gym Bag,40,1,0.0,CUST-878,40.0
+ORD-1348,2024-09-22,North,Online,Electronics,Bluetooth Speaker,49,2,0.05,CUST-812,93.1
+ORD-1201,2024-09-22,North,In-Store,Sports,Gym Bag,40,1,0.0,CUST-180,40.0
+ORD-2125,2024-09-22,East,In-Store,Electronics,Bluetooth Speaker,49,1,0.1,CUST-243,44.1
+ORD-1319,2024-09-23,West,Online,Clothing,Sneakers,95,2,0.0,CUST-548,190.0
+ORD-1261,2024-09-23,South,In-Store,Home,Desk Lamp,39,1,0.0,CUST-193,39.0
+ORD-1946,2024-09-23,North,In-Store,Clothing,T-Shirt,22,2,0.05,CUST-628,41.8
+ORD-1906,2024-09-24,North,Online,Home,Throw Pillow Set,45,3,0.0,CUST-146,135.0
+ORD-1687,2024-09-24,East,Online,Electronics,USB-C Hub,29,1,0.0,CUST-803,29.0
+ORD-1609,2024-09-24,North,Online,Sports,Dumbbell Set,120,1,0.05,CUST-282,114.0
+ORD-1770,2024-09-24,South,In-Store,Home,Coffee Maker,89,1,0.0,CUST-573,89.0
+ORD-1716,2024-09-24,North,Online,Clothing,Sneakers,95,1,0.1,CUST-583,85.5
+ORD-1087,2024-09-25,North,Online,Sports,Dumbbell Set,120,2,0.0,CUST-403,240.0
+ORD-1804,2024-09-25,North,In-Store,Clothing,Sneakers,95,5,0.15,CUST-190,403.75
+ORD-1398,2024-09-26,North,In-Store,Home,Desk Lamp,39,2,0.1,CUST-821,70.2
+ORD-1374,2024-09-28,West,In-Store,Sports,Dumbbell Set,120,1,0.15,CUST-161,102.0
+ORD-1289,2024-09-28,East,Online,Electronics,USB-C Hub,29,1,0.05,CUST-614,27.55
+ORD-1033,2024-09-28,North,Online,Electronics,USB-C Hub,29,1,0.0,CUST-170,29.0
+ORD-1726,2024-09-29,West,In-Store,Clothing,Sneakers,95,2,0.0,CUST-368,190.0
+ORD-1961,2024-09-29,North,In-Store,Sports,Yoga Mat,30,1,0.0,CUST-310,30.0
+ORD-1020,2024-09-29,South,In-Store,Sports,Yoga Mat,30,5,0.05,CUST-662,142.5
+ORD-1614,2024-09-29,South,Online,Electronics,Wireless Headphones,79,2,0.0,CUST-683,158.0
+ORD-1281,2024-09-30,East,In-Store,Clothing,Jeans,65,1,0.05,CUST-468,61.75
+ORD-2047,2024-09-30,South,Online,Electronics,Bluetooth Speaker,49,1,0.05,CUST-787,46.55
+ORD-1962,2024-09-30,West,Online,Home,Storage Bins,25,1,0.05,CUST-603,23.75
+ORD-1342,2024-09-30,West,Online,Sports,Dumbbell Set,120,3,0.0,CUST-606,360.0
+ORD-1016,2024-10-01,East,Online,Electronics,Wireless Headphones,79,2,0.05,CUST-400,150.1
+ORD-1679,2024-10-01,West,In-Store,Home,Storage Bins,25,3,0.1,CUST-860,67.5
+ORD-2121,2024-10-01,West,Online,Electronics,USB-C Hub,29,2,0.05,CUST-631,55.1
+ORD-1324,2024-10-01,East,Online,Electronics,Wireless Headphones,79,2,0.0,CUST-568,158.0
+ORD-1503,2024-10-02,North,Online,Electronics,Wireless Headphones,79,1,0.0,CUST-786,79.0
+ORD-1847,2024-10-02,West,In-Store,Electronics,Laptop Stand,35,1,0.0,CUST-681,35.0
+ORD-1013,2024-10-02,West,In-Store,Home,Desk Lamp,39,2,0.0,CUST-470,78.0
+ORD-1275,2024-10-02,South,In-Store,Home,Throw Pillow Set,45,1,0.0,CUST-824,45.0
+ORD-1051,2024-10-02,South,In-Store,Sports,Yoga Mat,30,1,0.05,CUST-541,28.5
+ORD-1839,2024-10-03,Unknown,In-Store,Clothing,Jeans,65,3,0.0,CUST-221,195.0
+ORD-1029,2024-10-03,North,Online,Electronics,Wireless Headphones,79,2,0.1,CUST-270,142.2
+ORD-1271,2024-10-03,North,Online,Electronics,USB-C Hub,29,1,0.0,CUST-615,29.0
+ORD-1373,2024-10-04,North,In-Store,Electronics,USB-C Hub,29,1,0.0,CUST-101,29.0
+ORD-1960,2024-10-04,North,Online,Electronics,Bluetooth Speaker,49,4,0.0,CUST-868,196.0
+ORD-1964,2024-10-04,South,Online,Electronics,Wireless Headphones,79,5,0.0,CUST-361,395.0
+ORD-1714,2024-10-06,North,Online,Home,Throw Pillow Set,45,1,0.0,CUST-681,45.0
+ORD-1286,2024-10-06,North,Online,Clothing,T-Shirt,22,1,0.0,CUST-176,22.0
+ORD-1709,2024-10-06,South,In-Store,Sports,Gym Bag,40,1,0.0,CUST-242,40.0
+ORD-1486,2024-10-07,South,Online,Sports,Dumbbell Set,120,3,0.1,CUST-314,324.0
+ORD-2096,2024-10-07,West,Online,Electronics,Laptop Stand,35,3,0.15,CUST-556,89.25
+ORD-1461,2024-10-07,South,In-Store,Sports,Dumbbell Set,120,1,0.0,CUST-438,120.0
+ORD-2066,2024-10-08,South,Online,Home,Coffee Maker,89,1,0.1,CUST-619,80.1
+ORD-1211,2024-10-08,East,Online,Clothing,Jeans,65,2,0.0,CUST-828,130.0
+ORD-1618,2024-10-08,East,In-Store,Home,Desk Lamp,39,1,0.15,CUST-563,33.15
+ORD-1085,2024-10-08,West,In-Store,Clothing,Sneakers,95,5,0.0,CUST-413,475.0
+ORD-1676,2024-10-08,North,Online,Electronics,Laptop Stand,35,1,0.0,CUST-802,35.0
+ORD-1172,2024-10-10,North,In-Store,Electronics,USB-C Hub,29,1,0.15,CUST-685,24.65
+ORD-1371,2024-10-10,East,Online,Clothing,Jeans,65,1,0.0,CUST-398,65.0
+ORD-1176,2024-10-12,East,In-Store,Clothing,Hoodie,55,1,0.05,CUST-841,52.25
+ORD-1442,2024-10-12,North,In-Store,Clothing,T-Shirt,22,3,0.0,CUST-231,66.0
+ORD-1044,2024-10-13,West,Online,Home,Coffee Maker,89,1,0.1,CUST-342,80.1
+ORD-2000,2024-10-13,West,In-Store,Home,Coffee Maker,89,1,0.1,CUST-300,80.1
+ORD-1604,2024-10-13,West,Online,Electronics,USB-C Hub,29,2,0.0,CUST-680,58.0
+ORD-1588,2024-10-14,South,Online,Clothing,T-Shirt,22,1,0.0,CUST-832,22.0
+ORD-1400,2024-10-14,East,Online,Sports,Dumbbell Set,120,1,0.05,CUST-781,114.0
+ORD-1276,2024-10-14,West,Online,Home,Storage Bins,25,4,0.0,CUST-497,100.0
+ORD-1073,2024-10-15,West,In-Store,Home,Storage Bins,25,2,0.15,CUST-885,42.5
+ORD-2130,2024-10-15,South,In-Store,Clothing,T-Shirt,22,2,0.05,CUST-257,41.8
+ORD-1523,2024-10-16,South,In-Store,Home,Storage Bins,25,1,0.15,CUST-467,21.25
+ORD-2174,2024-10-16,South,In-Store,Clothing,T-Shirt,22,1,0.0,CUST-606,22.0
+ORD-1251,2024-10-17,East,In-Store,Clothing,Hoodie,55,1,0.05,CUST-565,52.25
+ORD-1366,2024-10-17,South,In-Store,Clothing,Hoodie,55,1,0.0,CUST-891,55.0
+ORD-1526,2024-10-18,West,In-Store,Clothing,Jeans,65,2,0.0,CUST-701,130.0
+ORD-1080,2024-10-18,West,In-Store,Sports,Water Bottle,18,2,0.05,CUST-129,34.2
+ORD-1677,2024-10-18,North,Online,Clothing,Jeans,65,1,0.05,CUST-298,61.75
+ORD-1357,2024-10-18,South,In-Store,Clothing,T-Shirt,22,1,0.0,CUST-888,22.0
+ORD-1034,2024-10-18,North,Online,Electronics,Bluetooth Speaker,49,1,0.0,CUST-529,49.0
+ORD-1025,2024-10-19,South,In-Store,Sports,Water Bottle,18,1,0.0,CUST-516,18.0
+ORD-1411,2024-10-19,West,Online,Home,Coffee Maker,89,1,0.0,CUST-155,89.0
+ORD-1629,2024-10-19,South,Online,Home,Storage Bins,25,1,0.0,CUST-173,25.0
+ORD-2095,2024-10-19,North,Online,Home,Desk Lamp,39,3,0.05,CUST-609,111.15
+ORD-1220,2024-10-19,North,In-Store,Electronics,Laptop Stand,35,2,0.0,CUST-742,70.0
+ORD-1952,2024-10-19,South,Online,Sports,Yoga Mat,30,1,0.0,CUST-480,30.0
+ORD-1256,2024-10-20,East,Online,Clothing,Jeans,65,1,0.0,CUST-163,65.0
+ORD-1643,2024-10-20,East,In-Store,Sports,Water Bottle,18,1,0.0,CUST-559,18.0
+ORD-1511,2024-10-20,North,In-Store,Home,Coffee Maker,89,1,0.0,CUST-315,89.0
+ORD-1475,2024-10-20,West,In-Store,Electronics,USB-C Hub,29,1,0.0,CUST-423,29.0
+ORD-1272,2024-10-21,East,Online,Clothing,T-Shirt,22,3,0.0,CUST-409,66.0
+ORD-1630,2024-10-21,West,In-Store,Clothing,Sneakers,95,1,0.0,CUST-474,95.0
+ORD-1101,2024-10-21,North,In-Store,Electronics,Bluetooth Speaker,49,5,0.0,CUST-690,245.0
+ORD-1328,2024-10-21,South,In-Store,Sports,Gym Bag,40,2,0.0,CUST-750,80.0
+ORD-1192,2024-10-21,South,In-Store,Sports,Yoga Mat,30,2,0.0,CUST-539,60.0
+ORD-1555,2024-10-21,West,In-Store,Electronics,Laptop Stand,35,3,0.0,CUST-676,105.0
+ORD-1365,2024-10-22,West,In-Store,Clothing,Hoodie,55,1,0.05,CUST-623,52.25
+ORD-1564,2024-10-22,West,In-Store,Clothing,Sneakers,95,1,0.0,CUST-653,95.0
+ORD-2027,2024-10-22,East,Online,Sports,Yoga Mat,30,1,0.0,CUST-611,30.0
+ORD-2068,2024-10-22,South,In-Store,Home,Desk Lamp,39,1,0.0,CUST-592,39.0
+ORD-1544,2024-10-22,West,Online,Sports,Dumbbell Set,120,5,0.0,CUST-775,600.0
+ORD-1032,2024-10-23,North,In-Store,Clothing,T-Shirt,22,5,0.05,CUST-158,104.5
+ORD-1719,2024-10-23,North,In-Store,Clothing,Hoodie,55,2,0.0,CUST-855,110.0
+ORD-1991,2024-10-23,North,Online,Sports,Yoga Mat,30,2,0.0,CUST-486,60.0
+ORD-1668,2024-10-23,North,Online,Clothing,T-Shirt,22,5,0.0,CUST-886,110.0
+ORD-1169,2024-10-23,East,In-Store,Sports,Gym Bag,40,2,0.0,CUST-254,80.0
+ORD-1918,2024-10-23,East,Online,Sports,Gym Bag,40,3,0.0,CUST-599,120.0
+ORD-1644,2024-10-24,South,Online,Home,Desk Lamp,39,2,0.0,CUST-416,78.0
+ORD-1834,2024-10-24,West,In-Store,Sports,Gym Bag,40,1,0.0,CUST-587,40.0
+ORD-1781,2024-10-24,South,Online,Electronics,USB-C Hub,29,2,0.1,CUST-428,52.2
+ORD-1488,2024-10-25,West,In-Store,Electronics,Laptop Stand,35,2,0.0,CUST-532,70.0
+ORD-1445,2024-10-25,North,In-Store,Sports,Yoga Mat,30,3,0.0,CUST-299,90.0
+ORD-2086,2024-10-26,West,Online,Clothing,Hoodie,55,1,0.0,CUST-109,55.0
+ORD-1949,2024-10-26,West,In-Store,Sports,Gym Bag,40,3,0.0,CUST-805,120.0
+ORD-1296,2024-10-27,West,Online,Clothing,Hoodie,55,5,0.0,CUST-406,275.0
+ORD-2025,2024-10-27,West,In-Store,Home,Storage Bins,25,1,0.05,CUST-448,23.75
+ORD-1452,2024-10-28,North,Online,Home,Coffee Maker,89,1,0.0,CUST-405,89.0
+ORD-1023,2024-10-28,South,Online,Home,Coffee Maker,89,1,0.0,CUST-172,89.0
+ORD-1353,2024-10-28,East,In-Store,Electronics,Bluetooth Speaker,49,2,0.05,CUST-422,93.1
+ORD-1895,2024-10-29,North,In-Store,Clothing,Hoodie,55,1,0.15,CUST-257,46.75
+ORD-1844,2024-10-29,East,In-Store,Clothing,Jeans,65,1,0.0,CUST-859,65.0
+ORD-1372,2024-10-29,South,Online,Clothing,T-Shirt,22,1,0.15,CUST-254,18.7
+ORD-2161,2024-10-29,South,Online,Electronics,Bluetooth Speaker,49,1,0.05,CUST-223,46.55
+ORD-1875,2024-10-30,East,Online,Home,Throw Pillow Set,45,1,0.1,CUST-186,40.5
+ORD-1531,2024-10-30,North,Online,Home,Coffee Maker,89,1,0.0,CUST-157,89.0
+ORD-1079,2024-10-30,South,Online,Clothing,Sneakers,95,1,0.0,CUST-385,95.0
+ORD-1160,2024-10-30,East,Online,Electronics,Laptop Stand,35,2,0.0,CUST-325,70.0
+ORD-1746,2024-10-30,West,Online,Home,Coffee Maker,89,2,0.0,CUST-653,178.0
+ORD-1833,2024-10-31,West,Online,Clothing,T-Shirt,22,1,0.1,CUST-338,19.8
+ORD-1631,2024-10-31,East,Online,Clothing,T-Shirt,22,1,0.05,CUST-458,20.9
+ORD-1453,2024-11-01,West,Online,Clothing,Sneakers,95,3,0.0,CUST-450,285.0
+ORD-1818,2024-11-01,Unknown,Online,Clothing,T-Shirt,22,4,0.0,CUST-826,88.0
+ORD-1141,2024-11-01,South,Online,Clothing,T-Shirt,22,3,0.0,CUST-653,66.0
+ORD-1304,2024-11-01,East,In-Store,Electronics,Laptop Stand,35,3,0.0,CUST-112,105.0
+ORD-2056,2024-11-02,North,Online,Home,Storage Bins,25,2,0.0,CUST-357,50.0
+ORD-1994,2024-11-02,North,In-Store,Electronics,USB-C Hub,29,2,0.05,CUST-493,55.1
+ORD-1550,2024-11-02,South,Online,Clothing,T-Shirt,22,2,0.0,CUST-790,44.0
+ORD-1976,2024-11-02,South,Online,Clothing,Jeans,65,2,0.0,CUST-723,130.0
+ORD-1439,2024-11-03,East,Online,Home,Coffee Maker,89,4,0.0,CUST-838,356.0
+ORD-2100,2024-11-03,East,In-Store,Clothing,T-Shirt,22,5,0.0,CUST-834,110.0
+ORD-1999,2024-11-04,East,Online,Home,Desk Lamp,39,2,0.0,CUST-630,78.0
+ORD-2131,2024-11-05,East,Online,Clothing,Sneakers,95,2,0.0,CUST-644,190.0
+ORD-1219,2024-11-05,North,Online,Home,Desk Lamp,39,3,0.0,CUST-183,117.0
+ORD-1611,2024-11-06,North,Online,Clothing,Hoodie,55,2,0.05,CUST-771,104.5
+ORD-1055,2024-11-06,West,In-Store,Home,Storage Bins,25,3,0.05,CUST-552,71.25
+ORD-1021,2024-11-06,South,Online,Home,Throw Pillow Set,45,2,0.0,CUST-830,90.0
+ORD-2135,2024-11-07,North,Online,Clothing,Jeans,65,3,0.0,CUST-425,195.0
+ORD-1548,2024-11-07,West,In-Store,Clothing,T-Shirt,22,2,0.0,CUST-728,44.0
+ORD-1435,2024-11-07,East,In-Store,Home,Coffee Maker,89,2,0.1,CUST-533,160.2
+ORD-1205,2024-11-07,West,Online,Home,Coffee Maker,89,2,0.05,CUST-229,169.1
+ORD-1460,2024-11-07,East,Online,Electronics,Wireless Headphones,79,2,0.0,CUST-466,158.0
+ORD-1939,2024-11-08,West,In-Store,Electronics,Laptop Stand,35,5,0.15,CUST-759,148.75
+ORD-1919,2024-11-09,West,Online,Sports,Gym Bag,40,2,0.15,CUST-831,68.0
+ORD-1546,2024-11-10,North,Online,Sports,Dumbbell Set,120,4,0.05,CUST-498,456.0
+ORD-1536,2024-11-10,North,Online,Electronics,Bluetooth Speaker,49,2,0.0,CUST-593,98.0
+ORD-2143,2024-11-11,North,In-Store,Sports,Yoga Mat,30,2,0.0,CUST-819,60.0
+ORD-1234,2024-11-11,East,In-Store,Clothing,T-Shirt,22,2,0.05,CUST-619,41.8
+ORD-2059,2024-11-11,North,In-Store,Home,Coffee Maker,89,2,0.05,CUST-342,169.1
+ORD-1477,2024-11-12,South,In-Store,Electronics,Wireless Headphones,79,3,0.0,CUST-449,237.0
+ORD-1791,2024-11-12,East,Online,Clothing,Sneakers,95,5,0.15,CUST-279,403.75
+ORD-1581,2024-11-12,West,In-Store,Sports,Yoga Mat,30,2,0.0,CUST-334,60.0
+ORD-1181,2024-11-12,West,Online,Electronics,Laptop Stand,35,4,0.0,CUST-266,140.0
+ORD-1158,2024-11-12,North,In-Store,Electronics,Wireless Headphones,79,2,0.0,CUST-553,158.0
+ORD-1995,2024-11-13,North,In-Store,Sports,Gym Bag,40,4,0.0,CUST-629,160.0
+ORD-1237,2024-11-13,West,Online,Sports,Water Bottle,18,2,0.05,CUST-797,34.2
+ORD-1607,2024-11-13,South,In-Store,Sports,Water Bottle,18,4,0.1,CUST-838,64.8
+ORD-1388,2024-11-13,East,In-Store,Sports,Water Bottle,18,2,0.05,CUST-521,34.2
+ORD-1515,2024-11-13,South,In-Store,Home,Desk Lamp,39,2,0.0,CUST-597,78.0
+ORD-1885,2024-11-13,West,In-Store,Electronics,Wireless Headphones,79,2,0.0,CUST-235,158.0
+ORD-1591,2024-11-14,East,Online,Sports,Gym Bag,40,2,0.0,CUST-255,80.0
+ORD-2128,2024-11-14,East,In-Store,Home,Throw Pillow Set,45,2,0.0,CUST-490,90.0
+ORD-1097,2024-11-16,South,In-Store,Home,Throw Pillow Set,45,3,0.0,CUST-217,135.0
+ORD-2181,2024-11-16,East,Online,Clothing,Jeans,65,5,0.1,CUST-848,292.5
+ORD-1451,2024-11-16,South,In-Store,Home,Coffee Maker,89,3,0.05,CUST-419,253.65
+ORD-1674,2024-11-16,South,In-Store,Electronics,Wireless Headphones,79,2,0.05,CUST-523,150.1
+ORD-1873,2024-11-17,North,Online,Home,Coffee Maker,89,2,0.0,CUST-261,178.0
+ORD-2189,2024-11-17,North,Online,Home,Coffee Maker,89,2,0.0,CUST-655,178.0
+ORD-1813,2024-11-17,North,Online,Clothing,Hoodie,55,2,0.0,CUST-656,110.0
+ORD-1655,2024-11-18,South,In-Store,Electronics,USB-C Hub,29,2,0.15,CUST-550,49.3
+ORD-1571,2024-11-18,East,In-Store,Home,Storage Bins,25,2,0.0,CUST-407,50.0
+ORD-1384,2024-11-18,North,In-Store,Home,Storage Bins,25,2,0.15,CUST-176,42.5
+ORD-1058,2024-11-18,West,In-Store,Electronics,USB-C Hub,29,2,0.0,CUST-509,58.0
+ORD-1287,2024-11-18,South,Online,Electronics,Wireless Headphones,79,2,0.0,CUST-323,158.0
+ORD-1671,2024-11-18,North,In-Store,Home,Coffee Maker,89,2,0.0,CUST-841,178.0
+ORD-1625,2024-11-19,East,Online,Home,Coffee Maker,89,3,0.0,CUST-426,267.0
+ORD-1170,2024-11-19,East,Online,Sports,Yoga Mat,30,2,0.0,CUST-460,60.0
+ORD-1973,2024-11-19,East,Online,Clothing,Sneakers,95,5,0.0,CUST-265,475.0
+ORD-1745,2024-11-19,South,Online,Clothing,Sneakers,95,2,0.0,CUST-136,190.0
+ORD-1755,2024-11-19,South,Online,Home,Coffee Maker,89,2,0.05,CUST-598,169.1
+ORD-1119,2024-11-20,North,In-Store,Electronics,USB-C Hub,29,5,0.05,CUST-270,137.75
+ORD-1040,2024-11-20,West,In-Store,Home,Throw Pillow Set,45,2,0.1,CUST-152,81.0
+ORD-1431,2024-11-21,North,Online,Clothing,Sneakers,95,2,0.15,CUST-481,161.5
+ORD-1584,2024-11-21,West,In-Store,Home,Storage Bins,25,3,0.1,CUST-455,67.5
+ORD-1598,2024-11-22,East,Online,Electronics,Wireless Headphones,79,2,0.0,CUST-782,158.0
+ORD-1288,2024-11-22,West,In-Store,Sports,Dumbbell Set,120,2,0.05,CUST-116,228.0
+ORD-1376,2024-11-22,North,Online,Electronics,Wireless Headphones,79,2,0.1,CUST-545,142.2
+ORD-1675,2024-11-22,South,In-Store,Electronics,Laptop Stand,35,2,0.0,CUST-360,70.0
+ORD-1647,2024-11-22,East,Online,Clothing,Sneakers,95,3,0.15,CUST-897,242.25
+ORD-1615,2024-11-22,West,In-Store,Home,Storage Bins,25,3,0.0,CUST-206,75.0
+ORD-1982,2024-11-22,East,In-Store,Home,Coffee Maker,89,2,0.0,CUST-274,178.0
+ORD-1010,2024-11-23,South,In-Store,Sports,Dumbbell Set,120,5,0.05,CUST-886,570.0
+ORD-2178,2024-11-23,East,Online,Electronics,Bluetooth Speaker,49,2,0.0,CUST-376,98.0
+ORD-2003,2024-11-23,South,In-Store,Sports,Water Bottle,18,5,0.0,CUST-738,90.0
+ORD-1757,2024-11-23,West,In-Store,Sports,Water Bottle,18,2,0.0,CUST-344,36.0
+ORD-1612,2024-11-23,West,In-Store,Sports,Yoga Mat,30,2,0.0,CUST-825,60.0
+ORD-2132,2024-11-23,East,In-Store,Electronics,USB-C Hub,29,2,0.0,CUST-249,58.0
+ORD-2138,2024-11-23,South,In-Store,Clothing,Hoodie,55,5,0.15,CUST-823,233.75
+ORD-1500,2024-11-24,South,Online,Clothing,Sneakers,95,2,0.05,CUST-798,180.5
+ORD-1798,2024-11-24,South,In-Store,Electronics,Laptop Stand,35,2,0.0,CUST-300,70.0
+ORD-1898,2024-11-25,North,Online,Home,Desk Lamp,39,4,0.0,CUST-660,156.0
+ORD-1196,2024-11-25,West,In-Store,Electronics,Laptop Stand,35,2,0.0,CUST-746,70.0
+ORD-1274,2024-11-25,East,In-Store,Sports,Yoga Mat,30,5,0.0,CUST-518,150.0
+ORD-1463,2024-11-25,East,In-Store,Electronics,Wireless Headphones,79,5,0.0,CUST-575,395.0
+ORD-1138,2024-11-26,West,In-Store,Electronics,Laptop Stand,35,2,0.0,CUST-294,70.0
+ORD-2077,2024-11-26,West,Online,Clothing,Hoodie,55,3,0.0,CUST-360,165.0
+ORD-1657,2024-11-26,North,Online,Electronics,Bluetooth Speaker,49,2,0.0,CUST-897,98.0
+ORD-1512,2024-11-26,South,Online,Clothing,T-Shirt,22,2,0.1,CUST-288,39.6
+ORD-1921,2024-11-26,West,Online,Electronics,USB-C Hub,29,3,0.0,CUST-265,87.0
+ORD-1704,2024-11-26,North,Online,Electronics,USB-C Hub,29,2,0.05,CUST-242,55.1
+ORD-2187,2024-11-26,North,Online,Electronics,USB-C Hub,29,2,0.15,CUST-844,49.3
+ORD-1385,2024-11-26,South,Online,Electronics,Wireless Headphones,79,2,0.0,CUST-439,158.0
+ORD-1077,2024-11-27,West,In-Store,Sports,Dumbbell Set,120,2,0.0,CUST-208,240.0
+ORD-1711,2024-11-27,West,In-Store,Home,Desk Lamp,39,2,0.0,CUST-239,78.0
+ORD-1109,2024-11-27,West,In-Store,Electronics,USB-C Hub,29,5,0.1,CUST-621,130.5
+ORD-1846,2024-11-27,North,Online,Electronics,Bluetooth Speaker,49,2,0.0,CUST-412,98.0
+ORD-1277,2024-11-27,West,In-Store,Home,Throw Pillow Set,45,2,0.0,CUST-194,90.0
+ORD-2117,2024-11-28,West,In-Store,Sports,Yoga Mat,30,3,0.0,CUST-111,90.0
+ORD-1940,2024-11-28,South,In-Store,Home,Storage Bins,25,3,0.0,CUST-186,75.0
+ORD-1022,2024-11-28,West,Online,Clothing,Sneakers,95,5,0.0,CUST-353,475.0
+ORD-1659,2024-11-28,South,Online,Electronics,Laptop Stand,35,2,0.1,CUST-193,63.0
+ORD-1728,2024-11-29,East,In-Store,Clothing,Sneakers,95,3,0.1,CUST-373,256.5
+ORD-1102,2024-11-29,East,Online,Electronics,Bluetooth Speaker,49,2,0.0,CUST-699,98.0
+ORD-1944,2024-11-29,West,In-Store,Clothing,Hoodie,55,2,0.15,CUST-686,93.5
+ORD-1228,2024-11-30,East,Online,Clothing,Sneakers,95,3,0.05,CUST-210,270.75
+ORD-1409,2024-11-30,West,Online,Sports,Yoga Mat,30,2,0.0,CUST-154,60.0
+ORD-2170,2024-12-01,South,In-Store,Home,Coffee Maker,89,2,0.1,CUST-201,160.2
+ORD-2082,2024-12-01,West,Online,Electronics,USB-C Hub,29,2,0.0,CUST-280,58.0
+ORD-1897,2024-12-01,West,In-Store,Electronics,Laptop Stand,35,5,0.05,CUST-849,166.25
+ORD-1788,2024-12-01,East,In-Store,Clothing,Sneakers,95,3,0.05,CUST-707,270.75
+ORD-1362,2024-12-02,North,Online,Sports,Yoga Mat,30,2,0.05,CUST-824,57.0
+ORD-1315,2024-12-02,Unknown,Online,Electronics,Wireless Headphones,79,3,0.05,CUST-676,225.15
+ORD-2151,2024-12-02,West,In-Store,Sports,Yoga Mat,30,2,0.0,CUST-483,60.0
+ORD-1912,2024-12-02,West,In-Store,Sports,Gym Bag,40,3,0.15,CUST-733,102.0
+ORD-2055,2024-12-02,East,Online,Home,Storage Bins,25,2,0.1,CUST-168,45.0
+ORD-1145,2024-12-03,West,Online,Home,Coffee Maker,89,3,0.0,CUST-162,267.0
+ORD-1760,2024-12-03,North,Online,Home,Storage Bins,25,3,0.0,CUST-215,75.0
+ORD-1479,2024-12-03,East,In-Store,Sports,Yoga Mat,30,2,0.0,CUST-748,60.0
+ORD-1509,2024-12-04,South,Online,Sports,Gym Bag,40,2,0.0,CUST-239,80.0
+ORD-2166,2024-12-04,South,In-Store,Home,Coffee Maker,89,2,0.05,CUST-583,169.1
+ORD-2092,2024-12-04,East,Online,Sports,Gym Bag,40,2,0.0,CUST-748,80.0
+ORD-2144,2024-12-04,North,In-Store,Clothing,T-Shirt,22,5,0.15,CUST-272,93.5
+ORD-1908,2024-12-04,South,In-Store,Electronics,Wireless Headphones,79,2,0.0,CUST-146,158.0
+ORD-2197,2024-12-04,East,Online,Electronics,Laptop Stand,35,5,0.0,CUST-102,175.0
+ORD-1734,2024-12-04,West,In-Store,Home,Throw Pillow Set,45,2,0.15,CUST-887,76.5
+ORD-1414,2024-12-04,West,Online,Sports,Gym Bag,40,2,0.0,CUST-479,80.0
+ORD-1177,2024-12-05,East,In-Store,Home,Throw Pillow Set,45,2,0.0,CUST-771,90.0
+ORD-1240,2024-12-05,Unknown,In-Store,Home,Desk Lamp,39,3,0.0,CUST-277,117.0
+ORD-1052,2024-12-05,East,In-Store,Electronics,Laptop Stand,35,3,0.1,CUST-782,94.5
+ORD-1934,2024-12-06,West,Online,Clothing,Sneakers,95,2,0.0,CUST-241,190.0
+ORD-1152,2024-12-06,West,Online,Electronics,USB-C Hub,29,2,0.15,CUST-394,49.3
+ORD-1822,2024-12-07,North,Online,Clothing,Hoodie,55,2,0.0,CUST-716,110.0
+ORD-1775,2024-12-08,West,Online,Home,Coffee Maker,89,2,0.0,CUST-565,178.0
+ORD-1246,2024-12-08,South,Online,Electronics,Bluetooth Speaker,49,2,0.1,CUST-153,88.2
+ORD-1694,2024-12-09,North,In-Store,Clothing,T-Shirt,22,3,0.1,CUST-681,59.4
+ORD-1867,2024-12-09,West,In-Store,Electronics,Wireless Headphones,79,3,0.0,CUST-754,237.0
+ORD-2099,2024-12-09,South,In-Store,Clothing,Sneakers,95,5,0.0,CUST-192,475.0
+ORD-1978,2024-12-09,North,In-Store,Electronics,Wireless Headphones,79,2,0.0,CUST-485,158.0
+ORD-1977,2024-12-10,West,In-Store,Sports,Yoga Mat,30,5,0.0,CUST-651,150.0
+ORD-1278,2024-12-10,North,Online,Home,Coffee Maker,89,2,0.05,CUST-292,169.1
+ORD-1831,2024-12-11,North,In-Store,Clothing,T-Shirt,22,2,0.0,CUST-548,44.0
+ORD-1351,2024-12-12,North,Online,Sports,Water Bottle,18,3,0.0,CUST-550,54.0
+ORD-1241,2024-12-12,East,In-Store,Sports,Dumbbell Set,120,2,0.05,CUST-296,228.0
+ORD-1904,2024-12-12,South,In-Store,Electronics,Laptop Stand,35,5,0.0,CUST-639,175.0
+ORD-1764,2024-12-12,South,Online,Sports,Dumbbell Set,120,2,0.1,CUST-433,216.0
+ORD-1123,2024-12-12,North,In-Store,Electronics,USB-C Hub,29,5,0.0,CUST-453,145.0
+ORD-1472,2024-12-12,South,Online,Home,Storage Bins,25,2,0.05,CUST-111,47.5
+ORD-1984,2024-12-13,East,In-Store,Home,Throw Pillow Set,45,2,0.0,CUST-102,90.0
+ORD-1837,2024-12-13,East,Online,Electronics,Bluetooth Speaker,49,2,0.0,CUST-878,98.0
+ORD-1706,2024-12-13,West,In-Store,Home,Throw Pillow Set,45,2,0.0,CUST-191,90.0
+ORD-1574,2024-12-13,South,Online,Sports,Yoga Mat,30,2,0.15,CUST-899,51.0
+ORD-1680,2024-12-13,North,Online,Electronics,Laptop Stand,35,3,0.0,CUST-691,105.0
+ORD-1537,2024-12-13,West,In-Store,Home,Coffee Maker,89,4,0.05,CUST-144,338.2
+ORD-2136,2024-12-13,West,In-Store,Sports,Water Bottle,18,2,0.15,CUST-706,30.6
+ORD-1597,2024-12-14,East,Online,Electronics,Bluetooth Speaker,49,2,0.15,CUST-744,83.3
+ORD-1938,2024-12-14,East,In-Store,Clothing,Sneakers,95,2,0.05,CUST-452,180.5
+ORD-1215,2024-12-14,South,Online,Clothing,Hoodie,55,2,0.0,CUST-886,110.0
+ORD-1494,2024-12-15,South,Online,Home,Throw Pillow Set,45,2,0.0,CUST-486,90.0
+ORD-2168,2024-12-15,South,In-Store,Electronics,Wireless Headphones,79,3,0.0,CUST-469,237.0
+ORD-1786,2024-12-15,South,In-Store,Electronics,Laptop Stand,35,2,0.0,CUST-455,70.0
+ORD-1608,2024-12-15,South,In-Store,Electronics,USB-C Hub,29,2,0.0,CUST-430,58.0
+ORD-1560,2024-12-15,South,In-Store,Clothing,T-Shirt,22,5,0.15,CUST-854,93.5
+ORD-1266,2024-12-15,South,In-Store,Sports,Gym Bag,40,2,0.15,CUST-221,68.0
+ORD-1882,2024-12-16,North,Online,Sports,Water Bottle,18,2,0.05,CUST-580,34.2
+ORD-1221,2024-12-16,Unknown,Online,Clothing,Jeans,65,2,0.0,CUST-805,130.0
+ORD-1842,2024-12-16,West,In-Store,Electronics,USB-C Hub,29,3,0.0,CUST-675,87.0
+ORD-1814,2024-12-16,East,In-Store,Clothing,Jeans,65,4,0.05,CUST-198,247.0
+ORD-1874,2024-12-17,East,In-Store,Home,Desk Lamp,39,4,0.0,CUST-589,156.0
+ORD-1126,2024-12-17,North,In-Store,Sports,Dumbbell Set,120,2,0.05,CUST-393,228.0
+ORD-1565,2024-12-17,West,Online,Electronics,Laptop Stand,35,2,0.05,CUST-815,66.5
+ORD-1471,2024-12-18,North,In-Store,Home,Throw Pillow Set,45,2,0.05,CUST-777,85.5
+ORD-1345,2024-12-18,East,Online,Electronics,USB-C Hub,29,2,0.1,CUST-380,52.2
+ORD-1099,2024-12-18,West,In-Store,Clothing,Sneakers,95,2,0.0,CUST-612,190.0
+ORD-1541,2024-12-18,West,In-Store,Electronics,USB-C Hub,29,3,0.1,CUST-209,78.3
+ORD-1808,2024-12-18,North,Online,Clothing,Sneakers,95,2,0.05,CUST-883,180.5
+ORD-1401,2024-12-18,South,Online,Home,Storage Bins,25,2,0.0,CUST-818,50.0
+ORD-1572,2024-12-19,South,In-Store,Clothing,Hoodie,55,2,0.0,CUST-587,110.0
+ORD-1777,2024-12-19,North,In-Store,Electronics,Wireless Headphones,79,2,0.0,CUST-536,158.0
+ORD-2200,2024-12-21,East,Online,Clothing,Sneakers,95,2,0.15,CUST-769,161.5
+ORD-1104,2024-12-21,West,Online,Electronics,Bluetooth Speaker,49,2,0.0,CUST-565,98.0
+ORD-1701,2024-12-21,West,In-Store,Electronics,Laptop Stand,35,2,0.0,CUST-657,70.0
+ORD-1416,2024-12-22,North,In-Store,Clothing,Hoodie,55,2,0.05,CUST-654,104.5
+ORD-1280,2024-12-22,South,In-Store,Electronics,USB-C Hub,29,5,0.05,CUST-345,137.75
+ORD-2057,2024-12-22,South,In-Store,Electronics,Laptop Stand,35,5,0.0,CUST-279,175.0
+ORD-1773,2024-12-22,West,In-Store,Sports,Gym Bag,40,4,0.1,CUST-346,144.0
+ORD-1979,2024-12-22,North,In-Store,Clothing,Sneakers,95,2,0.15,CUST-479,161.5
+ORD-1695,2024-12-23,West,In-Store,Home,Coffee Maker,89,4,0.0,CUST-800,356.0
+ORD-1974,2024-12-23,South,In-Store,Electronics,Laptop Stand,35,2,0.0,CUST-542,70.0
+ORD-1238,2024-12-24,North,In-Store,Home,Coffee Maker,89,3,0.0,CUST-421,267.0
+ORD-1545,2024-12-24,North,Online,Electronics,Bluetooth Speaker,49,2,0.15,CUST-620,83.3
+ORD-1459,2024-12-24,North,Online,Electronics,Laptop Stand,35,3,0.0,CUST-389,105.0
+ORD-1865,2024-12-24,East,In-Store,Electronics,USB-C Hub,29,2,0.15,CUST-586,49.3
+ORD-1046,2024-12-25,North,In-Store,Home,Throw Pillow Set,45,2,0.0,CUST-327,90.0
+ORD-1155,2024-12-25,East,In-Store,Clothing,Hoodie,55,2,0.05,CUST-106,104.5
+ORD-2106,2024-12-25,East,In-Store,Clothing,T-Shirt,22,3,0.0,CUST-614,66.0
+ORD-1038,2024-12-26,North,In-Store,Home,Storage Bins,25,4,0.0,CUST-779,100.0
+ORD-1209,2024-12-26,East,In-Store,Electronics,Laptop Stand,35,3,0.0,CUST-304,105.0
+ORD-1691,2024-12-26,South,Online,Clothing,Jeans,65,2,0.1,CUST-172,117.0
+ORD-2180,2024-12-27,East,Online,Clothing,Jeans,65,2,0.1,CUST-518,117.0
+ORD-2107,2024-12-27,South,In-Store,Electronics,Laptop Stand,35,5,0.0,CUST-398,175.0
+ORD-1959,2024-12-28,East,Online,Clothing,Hoodie,55,4,0.0,CUST-759,220.0
+ORD-1793,2024-12-28,East,In-Store,Clothing,T-Shirt,22,2,0.0,CUST-251,44.0
+ORD-1896,2024-12-28,West,In-Store,Electronics,Wireless Headphones,79,2,0.05,CUST-708,150.1
+ORD-2112,2024-12-29,South,Online,Clothing,Hoodie,55,4,0.0,CUST-552,220.0
+ORD-1540,2024-12-29,North,Online,Sports,Dumbbell Set,120,2,0.05,CUST-632,228.0
+ORD-1438,2024-12-30,East,Online,Clothing,Jeans,65,2,0.15,CUST-253,110.5
+ORD-1923,2024-12-30,West,In-Store,Sports,Water Bottle,18,4,0.0,CUST-583,72.0
+ORD-2172,2024-12-30,East,In-Store,Home,Desk Lamp,39,2,0.0,CUST-559,78.0
